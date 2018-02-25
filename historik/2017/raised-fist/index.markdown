@@ -25,9 +25,9 @@ En Raised Fist-konsert handlar om både hjärta o smärta!
 
 
 
-{% oembed https://www.youtube.com/watch?v=hez7bGbutBs&feature;=youtu.be %}
+<!-- % oembed https://www.youtube.com/watch?v=hez7bGbutBs&feature;=youtu.be % -->
 
 
-{% oembed https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm %}
+<!-- % oembed https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm % -->
 
 

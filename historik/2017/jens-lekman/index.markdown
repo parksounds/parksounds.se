@@ -45,10 +45,10 @@ Göteborgs-Posten 4/5
 
 
 
-{% oembed https://www.youtube.com/watch?v=W3L8KEIMDRE %}
+<!-- % oembed https://www.youtube.com/watch?v=W3L8KEIMDRE % -->
 
 
 
-{% oembed https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx %}
+<!-- % oembed https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx % -->
 
 

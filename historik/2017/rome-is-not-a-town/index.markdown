@@ -22,6 +22,6 @@ Skivbolaget Startracks har bl a släppt musik med Fireside, Refused och Tiger Lo
 **"**Rom är inte en stad. Det är en ångvält, elak musik som skaver och gnisslar. Rundgången ligger ständigt på lur, som ett rovdjur. Publikslakt i all vänlighet" (Michael Strandhed, [kultursidan.nu](http://kultursidan.nu/))
 
 
-{% oembed https://play.spotify.com/artist/5F0yhCMTui7a3vPZUTslV3 %}
+<!-- % oembed https://play.spotify.com/artist/5F0yhCMTui7a3vPZUTslV3 % -->
 
 

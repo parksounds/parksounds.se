@@ -25,8 +25,8 @@ Hon kom från ingenstans och nu dominerar hon den svenska EBM och Electroscenen.
 
 – ”REIN är något som vi länge saknat.” ([HYMN](http://hymn.se/2016/01/05/rein-rein/))
 
-{% oembed https://youtu.be/y0VR4oWSGFM %}
+<!-- % oembed https://youtu.be/y0VR4oWSGFM % -->
 
-{% oembed https://open.spotify.com/album/02F3eCtath5JuPMWh6arsk %}
+<!-- % oembed https://open.spotify.com/album/02F3eCtath5JuPMWh6arsk % -->
 
 

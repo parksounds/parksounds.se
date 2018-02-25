@@ -23,10 +23,10 @@ Om 2016 var året då världen fick upp ögonen för norsk musik så kommer Slø
 
 
 
-{% oembed https://www.youtube.com/watch?v=8Nwp_RSxBek %}
+<!-- % oembed https://www.youtube.com/watch?v=8Nwp_RSxBek % -->
 
 
 
-{% oembed https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh %}
+<!-- % oembed https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh % -->
 
 

@@ -21,10 +21,10 @@ När en av årets absolut bästa låtar ”No halo” redan släppts och nytt al
 
 
 
-{% oembed https://www.youtube.com/watch?v=BSk8kY_rcrk&feature;=youtu.be %}
+<!-- % oembed https://www.youtube.com/watch?v=BSk8kY_rcrk&feature;=youtu.be % -->
 
 
 
-{% oembed https://open.spotify.com/artist/7jXQfCP0xRnnind08ie0zT %}
+<!-- % oembed https://open.spotify.com/artist/7jXQfCP0xRnnind08ie0zT % -->
 
 

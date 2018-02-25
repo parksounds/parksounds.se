@@ -27,10 +27,10 @@ Johnossi har precis avverkat spelningar inför utsålda lokaler i bl a: Berlin, 
 
 
 
-{% oembed https://youtu.be/rQDTG-caCOs %}
+<!-- % oembed https://youtu.be/rQDTG-caCOs % -->
 
 
 
-{% oembed https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT %}
+<!-- % oembed https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT % -->
 
 

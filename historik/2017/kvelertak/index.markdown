@@ -23,12 +23,12 @@ Heavy metal från Stavanger invaderar Teaterladan inom kort, se upp! Så här n�
 
 
 
-{% oembed https://www.youtube.com/watch?v=r7sIqyoRFiU %}
+<!-- % oembed https://www.youtube.com/watch?v=r7sIqyoRFiU % -->
 
 
 
 
-{% oembed https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9 %}
+<!-- % oembed https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9 % -->
 
 
 

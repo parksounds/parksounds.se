@@ -35,6 +35,6 @@ Kanske är det gott nog."
 
 
 
-{% oembed https://open.spotify.com/artist/0kO8xM63TaZM13XlV7yQXk %}
+<!-- % oembed https://open.spotify.com/artist/0kO8xM63TaZM13XlV7yQXk % -->
 
 
