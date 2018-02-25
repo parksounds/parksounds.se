@@ -1,0 +1,27 @@
+{
+  "name": "parksounds",
+  "version": "1.0.0",
+  "description": "Park Sounds 2018 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/parksounds/parksounds.git"
+  },
+  "keywords": [
+    "park-sounds"
+  ],
+  "author": "Park Sounds",
+  "license": "GPL",
+  "homepage": "https://bitbucket.org/tobiasnygren/parksounds-2018#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-shell": "^0.6.5",
+    "gulp-sourcemaps": "^2.6.4",
+    "lodash": "^4.17.5"
+  }
+}

@@ -1,0 +1,27 @@
+<script>
+    window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+    ga('create','UA-87111998-2','auto');ga('send','pageview');
+
+	window.trackOutBoundLink = function(url){
+		ga('send', 'event', 'outbound', 'click', url, { 'transport': 'beacon', 'hitCallback': function(){
+				document.location = url;
+			} 
+		});
+	};
+
+	document.addEventListener("DOMContentLoaded", function(t){
+
+		var ticketLinks = document.querySelectorAll('a.tickets');
+
+		for (var i = 0; i < ticketLinks.length; i++) {
+			var item = ticketLinks[i];
+			console.log(item);
+			item.onclick = function(event){
+				trackOutBoundLink(item.href);
+				event.preventDefault();
+			};
+		}
+
+	});
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async defer></script>

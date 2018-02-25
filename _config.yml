@@ -1,0 +1,28 @@
+# default setting
+markdown: kramdown
+highlighter: null
+
+# plugins used
+plugins:
+  - jekyll_oembed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ignore gulp and stuff
+exclude: ["node_modules", "gulpfile.js", "package.json", "bower_components", "gulp"]
+
+buildtype: production
+url: https://parksounds.se
+
+# jekyll-seo-tag settings
+title: Park Sounds 2018 - lördag 19 maj Huskvarna Folkets park
+description: Park Sounds - en alldeles särskild musikfestival lördag 19 maj 2018 i Huskvarna Folkets Park
+lang: sv_SE
+twitter:
+  username: theparksounds
+social:
+  name: Park Sounds
+  links:
+    - https://twitter.com/theparksounds
+    - https://instagram.com/theparksounds
+    - https://www.facebook.com/parksoundsfestival/
