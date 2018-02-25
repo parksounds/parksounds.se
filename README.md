@@ -20,9 +20,18 @@ npm install
 gulp
 ```
 
-### Build for production
+### Build for production/Github pages
 
+1) build css for production
 ```
 gulp prod
 ```
-not necessary for GitHub pages (hopefully)
+
+2) commit and push main.css to master
+
+3) update github-pages
+```
+bundle update github-pages
+```
+
+This repo is heavly inspired by @urre https://github.com/urre/jekyllbase/
