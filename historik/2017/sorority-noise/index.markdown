@@ -20,19 +20,3 @@ spotify: 7jXQfCP0xRnnind08ie0zT
 <img src="/images/2017/sorority-noise.jpg">
 
 När en av årets absolut bästa låtar ”No halo” redan släppts och nytt album kommer i mars, kunde vi inte låta bli att boka amerikanska Sorority Noise. Musik som verkligen betyder något och träffar rätt in i själen. Musik som berör. Fuck yeah!
-
-
-
-<<<<<<< HEAD
-<!-- % oembed https://www.youtube.com/watch?v=BSk8kY_rcrk&feature;=youtu.be % -->
-
-
-
-<!-- % oembed https://open.spotify.com/artist/7jXQfCP0xRnnind08ie0zT % -->
-=======
-
-
-
->>>>>>> develop
-
-

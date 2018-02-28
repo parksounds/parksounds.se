@@ -26,13 +26,3 @@ Hon kom från ingenstans och nu dominerar hon den svenska EBM och Electroscenen.
 – ”REIN har mer attityd än någon annan svensk debutant i år” ([Fredrik Strage](http://www.dn.se/kultur-noje/kronikor/fredrik-strage-rein-har-mer-attityd-an-nagon-annan-svensk-debutant-i-ar/))
 
 – ”REIN är något som vi länge saknat.” ([HYMN](http://hymn.se/2016/01/05/rein-rein/))
-
-<<<<<<< HEAD
-<!-- % oembed https://youtu.be/y0VR4oWSGFM % -->
-
-<!-- % oembed https://open.spotify.com/album/02F3eCtath5JuPMWh6arsk % -->
-=======
-
->>>>>>> develop
-
-

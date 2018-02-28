@@ -33,12 +33,3 @@ Kanske är det gott nog."
 - "Solen överraskar, samtidigt som de går in i version 2.0. Sveriges popscen är er att ta över." ([GAFFA](http://gaffa.se/recension/115388/bandet-gar-in-i-version-20/)) betyg 5/6
 
 - "Solen har aldrig skämts för, eller tummat på, sin skräniga 90-talsindie" ([HYMN](http://hymn.se/2017/03/21/solen-kanslor-saljermiljonar/)) betyg 8/10
-
-
-
-<<<<<<< HEAD
-<!-- % oembed https://open.spotify.com/artist/0kO8xM63TaZM13XlV7yQXk % -->
-=======
->>>>>>> develop
-
-

@@ -44,11 +44,3 @@ Festivalrykten 8/10
 
 Göteborgs-Posten 4/5
 "sånger att kännas egna, unika och djupt personliga. Mycket tack vare texterna"
-
-
-
-
-
-
-
-

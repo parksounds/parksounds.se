@@ -25,19 +25,3 @@ En konsert med Johnossi är en energikick som få artister kan förmedla med sam
 För en månad sedan släppte bandet sitt femte album "Blood Jungle", som innehåller flera kommande hits bl a "Got your gun" och "On the roll" och singeln "Air is free", gjord i samarbete med Joakim Berg i kent.
 
 Johnossi har precis avverkat spelningar inför utsålda lokaler i bl a: Berlin, Hamburg, London, New York, Amsterdam, Zurich, Vienna, München och Göteborg.
-
-
-
-<<<<<<< HEAD
-<!-- % oembed https://youtu.be/rQDTG-caCOs % -->
-
-
-
-<!-- % oembed https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT % -->
-=======
-
-
-
->>>>>>> develop
-
-

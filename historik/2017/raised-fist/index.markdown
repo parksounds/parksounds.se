@@ -24,17 +24,3 @@ spotify: 7ik758oYwkKmQtbZtAdOOm
 Raised Fist har beskrivits som ett av världens mest progressiva hardcore band och är mycket respekterade. Med influenser från svensk punk, New York hardcore och metal har de skapat sig ett eget sound och blivit ett band som influerat andra runt om i världen.
 Raised Fist har spelat på dom flesta av världens största festivaler och vi är oerhört glada att, äntligen, få se dom live i Teaterladan!
 En Raised Fist-konsert handlar om både hjärta o smärta!
-
-
-
-<<<<<<< HEAD
-<!-- % oembed https://www.youtube.com/watch?v=hez7bGbutBs&feature;=youtu.be % -->
-
-
-<!-- % oembed https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm % -->
-=======
-
-
->>>>>>> develop
-
-

@@ -22,19 +22,3 @@ spotify: 5sCDleuvB5bBwbSGsp9Bwh
 Ögonbrynshöjande intressant!
 
 Om 2016 var året då världen fick upp ögonen för norsk musik så kommer Sløtface se till att ingen glömmer dom under 2017. Pop-punkigt med sjukt dansvänliga låtar. Haley Shea, sångerska i Sløtface utsågs i senaste numret av tidningen Kerrang till en av de 50 bästa rockstjärnorna just nu! The Guardian gav dom 4/5 i betyg för deras spelning i London förra veckan.
-
-
-
-<<<<<<< HEAD
-<!-- % oembed https://www.youtube.com/watch?v=8Nwp_RSxBek % -->
-
-
-
-<!-- % oembed https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh % -->
-=======
-
-
-
->>>>>>> develop
-
-

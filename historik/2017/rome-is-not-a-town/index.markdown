@@ -21,11 +21,3 @@ spotify: 5F0yhCMTui7a3vPZUTslV3
 Skivbolaget Startracks har bl a släppt musik med Fireside, Refused och Tiger Lou. På senare tid har etiketten fått mycket uppmärksamhet på grund av Göteborgsbandet Rome Is Not A Town. Välförtjänt. Bandet ska upplevas live, här från en recension i Norrköping i februari:
 
 **"**Rom är inte en stad. Det är en ångvält, elak musik som skaver och gnisslar. Rundgången ligger ständigt på lur, som ett rovdjur. Publikslakt i all vänlighet" (Michael Strandhed, [kultursidan.nu](http://kultursidan.nu/))
-
-
-<<<<<<< HEAD
-<!-- % oembed https://play.spotify.com/artist/5F0yhCMTui7a3vPZUTslV3 % -->
-=======
->>>>>>> develop
-
-
