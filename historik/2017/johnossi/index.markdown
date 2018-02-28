@@ -6,7 +6,8 @@ layout: archived
 link: https://parksounds.se/historik/2017/johnossi/
 slug: johnossi
 title: Johnossi
-wordpress_id: 492
+youtube: rQDTG-caCOs
+spotify: 0k5NrYJAazGYrIhzrDslcT
 ---
 
 <img src="/images/2017/logo-1.svg" alt="Park Sounds 2017">
@@ -27,10 +28,8 @@ Johnossi har precis avverkat spelningar inför utsålda lokaler i bl a: Berlin, 
 
 
 
-{% oembed https://youtu.be/rQDTG-caCOs %}
 
 
 
-{% oembed https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT %}
 
 

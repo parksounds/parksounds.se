@@ -7,6 +7,8 @@ link: https://parksounds.se/historik/2017/sorority-noise/
 slug: sorority-noise
 title: Sorority Noise
 wordpress_id: 497
+youtube: BSk8kY_rcrk
+spotify: 7jXQfCP0xRnnind08ie0zT
 ---
 
 <img src="/images/2017/logo-1.svg" alt="Park Sounds 2017">
@@ -21,10 +23,8 @@ När en av årets absolut bästa låtar ”No halo” redan släppts och nytt al
 
 
 
-{% oembed https://www.youtube.com/watch?v=BSk8kY_rcrk&feature;=youtu.be %}
 
 
 
-{% oembed https://open.spotify.com/artist/7jXQfCP0xRnnind08ie0zT %}
 
 

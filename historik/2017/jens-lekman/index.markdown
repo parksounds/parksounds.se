@@ -7,6 +7,8 @@ link: https://parksounds.se/historik/2017/jens-lekman/
 slug: jens-lekman
 title: Jens Lekman
 wordpress_id: 495
+youtube: W3L8KEIMDRE
+spotify: 7tzI4rSFTHafjF18ZrNZWx
 ---
 
 <img src="/images/2017/logo-1.svg" alt="Park Sounds 2017">
@@ -45,10 +47,8 @@ Göteborgs-Posten 4/5
 
 
 
-{% oembed https://www.youtube.com/watch?v=W3L8KEIMDRE %}
 
 
 
-{% oembed https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx %}
 
 
