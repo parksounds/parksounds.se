@@ -4,7 +4,6 @@ highlighter: null
 
 # plugins used
 plugins:
-  - jekyll_oembed
   - jekyll-seo-tag
   - jekyll-sitemap
 

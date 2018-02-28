@@ -21,65 +21,25 @@ layout: compress
 
     <header class="site-header">
 
-        <a class="logo" href="/">
-            <img src="/images/logo-park-sounds-2018.svg" alt="Park Sounds 2018" />
-            <span class="title">Park Sounds</span> <span class="date">19 maj 2018</span>
-        </a>
-
-        <nav class="main-navigation">
-            <ul>
-                
-                <li><a href="/artister/" class="{% if page.url contains "/artister/" %}current{% endif %}">Artister</a></li>
-                
-                <li><a href="/info/" class="{% if page.url == "/info/" %}current{% endif %}">Info</a></li>
-                
-                <li>
-                    <a href="/press/" class="{% if page.url == "/press/" %}current{% endif %}">Press</a>
-                </li>
-                
-                <li><a href="/historik/" class="{% if page.url contains "/historik/" %}current{% endif %}"">Historik</a></li>
-                
-                <li><a href="//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711" class="tickets">Köp biljett</a></li>
-
-            </ul>
-        </nav>
+        {% include header.html %}
 
     </header>
 
-
     <main class="main-content">
-        {{ content }}
-    </main>
 
+        {{ content }}
+
+        {% include meta.html %}
+
+    </main>
 
     <footer class="site-footer">
 
-        <div class="logo" href="/">
-            <img src="/images/logo-park-sounds-2018.svg" alt="" />
-            <p>
-                <h4 class="title">Park Sounds</h4>
-                <span class="date">19 maj 2018 <br></span>
-                <span class="location">Huskvarna Folkets park</span>
-
-            </p>
-            
-        </div>
-
-        <a href="//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711" class="tickets">Köp biljett</a>
-
-        <aside class="social-icons column">
-            <!--a class="button" href="#"><svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg></a-->
-            <a href="//www.instagram.com/theparksounds/"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a>
-            <a href="//www.facebook.com/parksoundsfestival/"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a>
-        </aside>
-
-
+        {% include footer.html %}
 
     </footer>    
 
-    {% include social-icons-svg.html %}
-
-    {% include google-analytics.html %}
+    {% include bottom.html %}
 
 </body>
 </html>

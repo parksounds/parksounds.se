@@ -7,6 +7,8 @@ link: https://parksounds.se/historik/2017/slotface/
 slug: slotface
 title: Sløtface
 wordpress_id: 496
+youtube: 8Nwp_RSxBek
+spotify: 5sCDleuvB5bBwbSGsp9Bwh
 ---
 
 <img src="/images/2017/logo-1.svg" alt="Park Sounds 2017">
@@ -23,10 +25,16 @@ Om 2016 var året då världen fick upp ögonen för norsk musik så kommer Slø
 
 
 
+<<<<<<< HEAD
 <!-- % oembed https://www.youtube.com/watch?v=8Nwp_RSxBek % -->
 
 
 
 <!-- % oembed https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh % -->
+=======
+
+
+
+>>>>>>> develop
 
 

@@ -7,6 +7,7 @@ link: https://parksounds.se/historik/2017/solen/
 slug: solen
 title: Solen
 wordpress_id: 498
+spotify: 0kO8xM63TaZM13XlV7yQXk
 ---
 
 <img src="/images/2017/logo-1.svg" alt="Park Sounds 2017">
@@ -35,6 +36,9 @@ Kanske är det gott nog."
 
 
 
+<<<<<<< HEAD
 <!-- % oembed https://open.spotify.com/artist/0kO8xM63TaZM13XlV7yQXk % -->
+=======
+>>>>>>> develop
 
 

@@ -7,6 +7,8 @@ link: https://parksounds.se/historik/2017/raised-fist/
 slug: raised-fist
 title: Raised Fist
 wordpress_id: 493
+youtube: hez7bGbutBs
+spotify: 7ik758oYwkKmQtbZtAdOOm
 ---
 
 <img src="/images/2017/logo-1.svg" alt="Park Sounds 2017">
@@ -25,9 +27,14 @@ En Raised Fist-konsert handlar om både hjärta o smärta!
 
 
 
+<<<<<<< HEAD
 <!-- % oembed https://www.youtube.com/watch?v=hez7bGbutBs&feature;=youtu.be % -->
 
 
 <!-- % oembed https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm % -->
+=======
+
+
+>>>>>>> develop
 
 
