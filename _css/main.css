@@ -190,8 +190,12 @@ h4 {
 	position: sticky;
 	top: 0;
 	max-width: 100%;
-	overflow: auto;
+	overflow-x: scroll;
 	z-index: 999;
+
+	/* mobile for nav scrolling */
+	/* source: https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/ */
+	-webkit-overflow-scrolling: touch;
 }
 
 .site-header a {
@@ -203,7 +207,6 @@ h4 {
 	display: flex;
 	align-items: center;
 	margin-left: .5rem;
-	min-width: 50%;
 }
 
 .site-header .logo img {
@@ -423,6 +426,11 @@ ul.artists h3 {
 		position: initial;
 		background: black;
 		padding: 1rem 0;
+		overflow-x: auto;
+	}
+
+	.site-header .logo {
+		min-width: 50%;
 	}
 
 	.site-header .logo .title {
