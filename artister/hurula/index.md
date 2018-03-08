@@ -5,7 +5,12 @@ layout: default
 link: https://parksounds.se/artister/hurula/
 slug: hurula
 title: Hurula
+spotify: 5haVwjDd8z1dsR0uQewwoP
+youtube: HemJrHpNlH0
+image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/images/artists/hurula-park-sounds-2018.jpg
 ---
+
+![{{page.title}}]({{page.image}})
 
 # Hurula till Park Sounds
 

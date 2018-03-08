@@ -1,16 +1,16 @@
 ---
 author: parksounds
-comments: false
 date: 2018-02-18 17:07:33+00:00
 layout: default
 link: https://parksounds.se/artister/the-hives/
 slug: the-hives
 title: The Hives
-wordpress_id: 886
-image: //res.cloudinary.com/dxrmh1mdm/image/upload/w_682/v1518556961/the_hives.jpg
+spotify: 4DToQR3aKrHQSSRzSz8Nzt
+youtube: 1M02bAWDFkI
+image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/images/artists/the-hives-park-sounds-2018.jpg
 ---
 
-<img src="//res.cloudinary.com/dxrmh1mdm/image/upload/w_682/v1518556961/the_hives.jpg" alt="The Hives" />
+![{{page.title}}]({{page.image}})
 
 # The Hives till Park Sounds
 

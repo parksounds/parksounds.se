@@ -5,7 +5,12 @@ layout: default
 link: https://parksounds.se/artister/jeff-rosenstock/
 slug: jeff-rosenstock
 title: Jeff Rosenstock
+spotify: 0wNZvrIMNUCs24G0wFg2D6
+youtube: JidJV1ue1lI
+image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/images/artists/jeff-rosenstock-park-sounds-2018.jpg
 ---
+
+![{{page.title}}]({{page.image}})
 
 # Jeff Rosenstock klar till Park Sounds
 

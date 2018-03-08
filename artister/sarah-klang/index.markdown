@@ -6,7 +6,13 @@ layout: default
 link: https://parksounds.se/artister/sarah-klang/
 slug: sarah-klang
 title: Sarah Klang
+spotify: 6Pm0evhKSUGTGYDxzpGGKf
+youtube: tWCaPqA5Ku4
+image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/images/artists/sarah-klang-park-sounds-2018.jpg
 ---
+
+![{{page.title}}]({{page.image}})
+
 
 # Sarah Klang bokad till Park Sounds
 
@@ -14,6 +20,6 @@ Saddest girl in Sweden, Sarah Klang, tog Sverige med storm förra sommaren med s
 
 Sedan dess har vi väntat.
 
-Tills nyligen: 9/2-2018 kom fullängdaren, och det blev succé direkt. Inte för att någon tvekade när Sverigest mest intressanta artist skulle släppa sin första fullängdare. _Love in the Milky Way_ blev allt vad kritikerna hade hoppats på: DI 5/5, Hymn 9/10, Gaffa 5/6, SvD 5/6, Aftbl 4/5, DN 4/5, Festivalrykten 8/10
+Tills nyligen: 9/2-2018 kom fullängdaren, och det blev succé direkt. Inte för att någon tvekade när Sverigest mest intressanta artist skulle släppa sin första fullängdare. _Love in the Milky Way_ blev allt vad kritikerna hade hoppats på: DI 5/5, Hymn 9/10, Gaffa 5/6, SvD 5/6, Aftonbladet 4/5, DN 4/5, Festivalrykten 8/10
 
 Kritikerna är enade, vi också. Vi ses på Park Sounds, 19 maj, Huskvarna Folkets Park.
