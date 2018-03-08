@@ -6,7 +6,7 @@ link: https://parksounds.se/artister/blood-command/
 slug: blood-command
 title: Blood Command
 spotify: 4WfUbvICLrqPW9rzuNGS1f
-image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/images/artists/blood-command-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://parksounds.se/images/artists/blood-command-park-sounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})

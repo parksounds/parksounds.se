@@ -7,7 +7,7 @@ slug: hurula
 title: Hurula
 spotify: 5haVwjDd8z1dsR0uQewwoP
 youtube: HemJrHpNlH0
-image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/images/artists/hurula-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://parksounds.se/images/artists/hurula-park-sounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})
