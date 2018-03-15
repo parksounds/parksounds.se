@@ -14,8 +14,10 @@ image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://pa
 
 # Jeff Rosenstock klar till Park Sounds
 
-Jeff Rosenstock är en amerikansk musiker och låtskrivare från Long Island. Han var sångare i ska-punkbandet "The Arrogant Sons of Bitches", det musikaliska kollektivet "Bomb the Music Industry!"" och indie-rockbandet "Kudrow". Efter att "Bomb Music Industry!" bröt upp startade han en solokarriär. 
+Det är artister som amerikanska Jeff Rosenstock som är anledningen till att vi gör Park Sounds. Artister som berör, går sin egen väg, får nackhåren att resa sig, tårarna att flöda eller benen att sprattla.
 
-Spelningen på Parks Sounds 19 maj blir den enda spelningen i Sverige och kommer han med en hyllad ny platta i bagaget. 
+Sätt nu på Jeff Rosenstock's topp 10 på Spotify och spela på repeat till den 19 maj! Vi ska alla kunna varenda textrad och ge Jeff det mottagande han förtjänar, då han väljer att endast besöka oss för den enda spelningen i Sverige. Se upp, det här kan bli århundradets spelning i Huskvarna!
 
-Kan bli århundradets spelning i Huskvarna.
+Inflytelserika Pitchfork (US) gav nya albumet ”POST-” välförtjänta 8.2/10 i betyg: "The magnetic Jeff Rosenstock stays fully armed with his power-pop anthems, as full of indomitable hooks as they are of paralyzing doubt and cynicism."
+
+Vi har fattat, världen tillhör Jeff!
