@@ -11,7 +11,7 @@ wordpress_id: 646
 
 # PRESS
 
-Ansök om ackreditering till Park Sounds genom att skicka information om:
+Ansök om pressackreditering till Park Sounds genom att skicka information om:
 
 - Namn, ålder, befattning
 - Vilket media (TV/radio,webb)
@@ -19,9 +19,7 @@ Ansök om ackreditering till Park Sounds genom att skicka information om:
 
 Skicka till [parken@huskvarna.folketspark.com](mailto:parken@huskvarna.folketspark.com)
 
-
 Incheckning för ackrediterade sker vid ankomst till festivalen.
-
 
 Har du frågor som rör press eller media på Park Sounds, kontakta [parken@huskvarna.folketspark.com](mailto:parken@huskvarna.folketspark.com)
 
