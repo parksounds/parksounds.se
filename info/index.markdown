@@ -5,69 +5,66 @@ date: 2017-03-28 13:58:13+00:00
 layout: default
 link: https://parksounds.se/info/
 slug: info
-title: Information
+title: Information om festivalen
 wordpress_id: 553
 ---
 
 # Information
 
-
 Årets festival äger rum i Huskvarna Folkets Park lördag 19 maj.
 
-Festivalen har två scener, samtliga är under tak. Ingen åldersgrans, 18 år i baren. 
+Festivalen har två scener, bägge är under tak. Ingen åldersgrans, 18 år i baren. 
 
-Mat och ölservering finns på området.
+Mat- och ölservering finns på området.
 
 Park Sounds genomförs med stod av Huskvarna Folkets Park, Kultur Jönköpings kommun samt Boverket.
 
-
 ### Vanliga frågor
 
-
-**När**  
+**När äger Park Sounds rum?**  
 Lördag 19 maj
 
 
-**Var**  
+**Var är Park Sounds?**  
 I Huskvarna Folkets Park, Huskvarna
 
 
-**Biljetter**  
+**Var köper jag biljetter till Park Sounds?**  
 Du köper [biljetter hos Tickster](https://secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711).
 
 
-**Hur**  
-Tva inomhusscener, folkparkshäng utomhus.
+**Hur är festivalen Park Sounds?**  
+Festivalen har två inomhusscener, mat- och ölservering, folkparkshäng utomhus.
 
 
-**Åldersgrans**  
+**Vilken åldersgrans är det på Park Sounds**  
 Ingen åldersgrans. 18 år i baren, så klart.
 
 
 **Mat och dryck**  
-Mat och dryck finns på omradet. Förbjudet att ta med alkoholhaltiga drycker in på området.
+Mat och dryck finns på omradet. Det är förbjudet att ta med alkoholhaltiga drycker in på området.
 
 
 **Garderob**  
 Garderobsmöjligheter finns i huvudbyggnaden på området.
 
 
-### Hur tar jag mig dit?
+### Hur tar jag mig till Park Sounds?
 
 
 **Tåg**  
-Huskvarna Tagstation finns nästgårds. Sök på [SJ](https://www.sj.se/#/sok/fran/Huskvarna/enkel/avgang//avgang//VU///0//) eller [Jönköpings länstrafik](http://www.jlt.se/)
+Huskvarna Tagstation ligger några meter från Huskvarna Folkets Park. Sök på [SJ](https://www.sj.se/#/sok/fran/Huskvarna/enkel/avgang//avgang//VU///0//) eller [Jönköpings länstrafik](http://www.jlt.se/)
 
 
 **Bil**  
-Från E4:an tag av avfart nummer 100. Kör mot Huskvarna och följ skyltarna till Folkets park. Parkering är gratis inom kommunens p-zoner runt parken.
+Från E4:an tag av avfart nummer 100. Kör mot Huskvarna och följ skyltarna till Folkets Park. Parkering är gratis inom kommunens p-zoner runt parken.
 
 
 **Buss**  
-Lokaltrafiken kör till Sandagymnasiet, sök resa på [Jönköpings länstrafik](http://www.jlt.se/)
+Lokaltrafiken kör till Sandagymnasiet, linje 1/röd sök resa på [Jönköpings länstrafik](http://www.jlt.se/)
 
 
-### Var kan man sova?
+### Var kan jag bo?
 
 **Hotell:**  
 Huskvarna Stadshotell, Erik Dahlbergsgatan 20  
