@@ -9,12 +9,12 @@ title: Historik
 wordpress_id: 711
 ---
 
-# Tidigare års Park Sounds
+# Tidigare Park Sounds
 
 
 ## 2017
 
-Första Parks Sounds ägde rum lördag 20 maj 2017 i Huskvarna Folkets park. Hela lineupen kan avnjutas nedan.
+Första Park Sounds ägde rum lördag 20 maj 2017 i Huskvarna Folkets park. Hela lineupen kan avnjutas nedan.
 
 ![](/images/2017/parksounds-2017-lineup-300x300.jpg)
 
@@ -42,5 +42,3 @@ Första Parks Sounds ägde rum lördag 20 maj 2017 i Huskvarna Folkets park. Hel
   * **[Rome is not a Town](/historik/2017/rome-is-not-a-town/)**
  	
   * **[DJ Gunnel](/historik/2017/dj-gunnel/)** (HABO)
-
-
