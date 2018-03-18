@@ -14,7 +14,7 @@ image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://pa
 ![{{page.title}}]({{page.image}})
 
 
-# Sarah Klang bokad till Park Sounds
+# Sarah Klang
 
 Saddest girl in Sweden, Sarah Klang, tog Sverige med storm förra sommaren med succé på bland annat Way Out West. Dagens Nyheter uttryckte det hela följande "Den osannolika debutanten Sarah Klang välte en fullsatt teaterlokal med en sorts hjärtekrossad Weeping Willows-tradition på steroider, i en mantel med orden ”Saddest girl in Sweden” och med en röst större än samtliga använda klichéer.”
 

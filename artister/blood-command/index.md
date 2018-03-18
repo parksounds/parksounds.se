@@ -11,7 +11,7 @@ image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://pa
 
 ![{{page.title}}]({{page.image}})
 
-# Blood Command (NO) på Park Sounds
+# Blood Command (NO)
 
 Blood Command tillhör skaran Norges mest intressanta band. 2017 släppte de hyllade albumet "Cult drugs". Öppningssåret är en rejäl käftsmäll, sen fortsätter det. Blood Command har ärvt och tagit det bästa ur den norska scenen, allt från stenhård hardcore till skönsång, trumpeter, skrikande gitarrer, samklang mellan bas och trummor.
 
@@ -20,6 +20,7 @@ Blood Command har bl a spelat på Roskilde, Øya, Vans Warped tour, Download och
 Deras album har hyllats bl a i:
 * Kerrang, betyg 5/5
 * Metal Hammer 9/10
-* Bandet har supportat exempelvis Refused och Turbonegro.
 
-Var redo att bli bortblåst i Rotundan av musik i sin råaste form.
+Bandet har också supportat exempelvis Refused och Turbonegro.
+
+Var redo att bli bortblåst i Rotundan av musik i sin råaste form. 

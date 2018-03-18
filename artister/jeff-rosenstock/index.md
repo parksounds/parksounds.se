@@ -12,7 +12,7 @@ image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://pa
 
 ![{{page.title}}]({{page.image}})
 
-# Jeff Rosenstock klar till Park Sounds
+# Jeff Rosenstock (US)
 
 Det är artister som amerikanska Jeff Rosenstock som är anledningen till att vi gör Park Sounds. Artister som berör, går sin egen väg, får nackhåren att resa sig, tårarna att flöda eller benen att sprattla.
 

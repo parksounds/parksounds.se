@@ -12,7 +12,7 @@ image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://pa
 
 ![{{page.title}}]({{page.image}})
 
-# The Hives till Park Sounds
+# The Hives
 
 I en tid då rocken skulle varit död bevisade The Hives motsatsen redan 1997. Med skrikande instrument, attityd och ett evigt trummande tog de över världen. Attityden är krossa svensk jantelag, sparka uppåt och alltid vara bäst. De headlinar världens största festivaler och har också varit förband åt giganter som Rolling Stones och AC/DC.
 
