@@ -25,6 +25,6 @@ title: Park Sounds 2018 - lördag 19 maj Huskvarna Folkets Park
 Fler artister tillkommer
 
 
-[Köp biljett](//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711){: .tickets }
+[Köp biljetter](//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711){: .tickets }
 
 
