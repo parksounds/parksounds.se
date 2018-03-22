@@ -397,6 +397,26 @@ ul.artists h3 {
 	fill: #3B5998;
 }
 
+/** responsive embeds */
+.meta-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+}
+
+.meta-container iframe,
+.meta-container object,
+.meta-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 
 /* ==========================================================================
 	 EXAMPLE Media Queries for Responsive Design.

@@ -1,6 +1,10 @@
-{% if page.spotify %}
-	<iframe src="https://open.spotify.com/embed?uri=spotify:artist:{{ page.spotify }}&view=coverart" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-{% endif %}
 {% if page.youtube %}
-	<iframe width="480" height="270" src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="meta-container">
+	<iframe src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+{% endif %}
+{% if page.spotify %}
+<div class="meta-container">
+	<iframe src="https://open.spotify.com/embed?uri=spotify:artist:{{ page.spotify }}&view=coverart" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
 {% endif %}
