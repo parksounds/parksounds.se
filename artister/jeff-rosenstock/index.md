@@ -7,7 +7,7 @@ slug: jeff-rosenstock
 title: Jeff Rosenstock
 spotify: 0wNZvrIMNUCs24G0wFg2D6
 youtube: JidJV1ue1lI
-image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://parksounds.se/images/artists/jeff-rosenstock-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image//fetch/c_fill,w_600,h_315,f_auto/https://parksounds.se/images/artists/jeff-rosenstock-park-sounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})
