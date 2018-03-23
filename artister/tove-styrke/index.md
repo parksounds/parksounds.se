@@ -7,7 +7,7 @@ slug: tove-styrke
 title: Tove Styrke
 spotify: 2QSPrJfYeRXaltEEiriXN9
 youtube: wrQ42cE_yFw
-image: https://res.cloudinary.com/parksounds/image/fetch/g_face,c_thumb,w_1200,h_630,f_auto/https://parksounds.se/images/artists/tove-styrke-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image/fetch/g_faces,c_thumb,w_1200,h_630,f_auto/https://parksounds.se/images/artists/tove-styrke-park-sounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})
