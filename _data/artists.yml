@@ -1,5 +1,10 @@
+- name: Tove Styrke 
+  url: /artister/tove-styrke 
+  level: 2
+  status: ny!
+
 - name: The Hives
-  url: /artister/the-hives
+  url: /artister/the-hives  
   level: 2
 
 - name: Sarah Klang
@@ -17,4 +22,3 @@
 - name: Blood Command (NO)
   url: /artister/blood-command
   level: 3
-  status: ny
