@@ -7,7 +7,7 @@ slug: the-hives
 title: The Hives
 spotify: 4DToQR3aKrHQSSRzSz8Nzt
 youtube: 1M02bAWDFkI
-image: https://res.cloudinary.com/parksounds/image//fetch/c_fill,w_600,h_315,f_auto/https://parksounds.se/images/artists/the-hives-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image//fetch/c_fill,w_1200,h_630,f_auto/https://parksounds.se/images/artists/the-hives-park-sounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})
