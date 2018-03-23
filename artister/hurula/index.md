@@ -7,14 +7,14 @@ slug: hurula
 title: Hurula
 spotify: 5haVwjDd8z1dsR0uQewwoP
 youtube: HemJrHpNlH0
-image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://parksounds.se/images/artists/hurula-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image//fetch/c_fill,w_600,h_315,f_auto/https://parksounds.se/images/artists/hurula-park-sounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})
 
-# Hurula till Park Sounds
+# Hurula
 
-Det är en stor ära för oss att presentera Hurula, en av landets mest intressanta liveakter.
+Det är en stor ära för oss att presentera Hurula på scen på Park Sounds, en av landets mest intressanta liveakter.
 
 Hurula är det svenska punkarvets mest självklara fanbärare. Solodebuten ”Vi är människorna våra föräldrar varnade oss för” slog ner som en poppunkig bomb 2014 och hyllades av såväl kritiker som publik. Hurula nominerades till Guldmicken och Årets Pop på P3 Guld samt som Årets nykomling och Årets Rock på Grammisgalan. Hösten 2016 släpptes äntligen uppföljaren – albumet "Vapen till dom hopplösa”.
 
