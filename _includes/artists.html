@@ -1,0 +1,16 @@
+<ul class="artists">
+{% for item in site.data.artists %}
+  <li>
+      <h{{item.level}}>
+		<a href="{{ item.url }}">
+	      	{{ item.name }}
+	      	<sup>{{ item.status }}</sup>
+	    </a>
+      </h{{item.level}}>
+  </li>
+{% endfor %}
+</ul>
+
+<p>Fler artister tillkommer</p>
+
+<p><a href="//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711" class="tickets">Köp biljetter</a></p>

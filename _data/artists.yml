@@ -1,0 +1,20 @@
+- name: The Hives
+  url: /artister/the-hives
+  level: 2
+
+- name: Sarah Klang
+  url: /artister/sarah-klang
+  level: 3
+
+- name: Hurula 
+  url: /artister/hurula 
+  level: 2
+
+- name: Jeff Rosenstock (US)
+  url: /artister/jeff-rosenstock
+  level: 3
+
+- name: Blood Command (NO)
+  url: /artister/blood-command
+  level: 3
+  status: ny
