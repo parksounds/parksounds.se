@@ -6,7 +6,7 @@ link: https://parksounds.se/artister/high-tyde/
 slug: high-tyde
 title: High Tyde
 spotify: 5CMAV0Fr8uS2YqlR1ZG5lA
-image: https://res.cloudinary.com/parksounds/image/fetch/c_fill,w_600,h_315,f_auto/https://parksounds.se/images/artists/high-tyde-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image/fetch/g_faces,c_thumb,w_1200,h_630,f_auto/https://parksounds.se/images/artists/high-tyde-parksounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})
