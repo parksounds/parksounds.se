@@ -1,3 +1,8 @@
+- name: Grant
+  url: /artister/grant/
+  level: 3
+  status: ny!
+
 - name: Tove Styrke 
   url: /artister/tove-styrke 
   level: 2
@@ -14,6 +19,11 @@
 - name: Hurula 
   url: /artister/hurula 
   level: 2
+
+- name: High Tyde (UK)
+  url: /artister/high-tyde
+  level: 3
+  status: ny!
 
 - name: Jeff Rosenstock (US)
   url: /artister/jeff-rosenstock
