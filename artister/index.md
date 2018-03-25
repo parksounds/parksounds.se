@@ -11,4 +11,3 @@ title: Klara artister
 # Klara artister
 
 Klara för Park Sounds 2018:
-
