@@ -16,7 +16,7 @@ let postcss_plugins = [
 
 gulp.task('build', shell.task(['bundle exec jekyll build']));
 
-gulp.task('serve', shell.task(['bundle exec jekyll serve --incremental']));
+gulp.task('serve', shell.task(['bundle exec jekyll serve']));
 
 //init browser-sync and watch main.css and *.html
 gulp.task('browser-sync', function () {
@@ -28,7 +28,7 @@ gulp.task('browser-sync', function () {
     });
 
     //init html watcher
-    gulp.watch('./_site/*.html', browserSync.reload());
+    gulp.watch("./_site/*.html").on('change', browserSync.reload);
 
     //init minify-css
     gulp.watch('./_css/main.css', ['minify-css-dev']);
