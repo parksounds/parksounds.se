@@ -12,7 +12,7 @@
 
 html {
 		color: #222;
-		font-size: 1rem;
+		font-size: 100%;
 		line-height: 1.4;
 }
 
@@ -84,51 +84,49 @@ textarea {
 /**
  * Modular scale - perfect fourth
  * http://www.modularscale.com/?1&em&1.333
-    99.376rem
 
-    74.551rem
+    747.844%
+    7.478em
 
-    55.927rem
+    561.023%
+    5.61em
 
-    41.956rem
+    420.873%
+    4.209em
 
-    31.475rem
+    315.733%
+    3.157em
 
-    23.612rem
+    236.859%
+    2.369em
 
-    17.713rem
+    177.689%
+    1.777em
 
-    13.288rem
+    133.3%
+    1.333em
 
-    9.969rem
+    100%
+    1em
 
-    7.478rem
+    75.019%
+    0.75em
 
-    5.61rem
+    56.278%
+    0.563em
 
-    4.209rem
+    42.219%
+    0.422em
 
-    3.157rem
+    31.672%
+    0.317em
 
-    2.369rem
+    23.76%
+    0.238em
 
-    1.777rem
+    17.825%
+    0.178em
 
-    1.333rem
-
-    1rem
-
-    0.75rem
-
-    0.563rem
-
-    0.422rem
-
-    0.317rem
-
-    0.238rem
-
-    0.178rem
 **/
 
 /** Variables **/
@@ -138,6 +136,7 @@ textarea {
   --main-dark-color: #221e1f;
   --main-accent-color: #d5223e;
   --secondary-dark-color: #555;
+  --artists-headling-base: 4rem;
 }
 
 /** General **/
@@ -145,10 +144,10 @@ textarea {
 body {
 	background: var(--main-light-color);
 	font-family: 'Roboto', sans-serif;
+	font-size: 1.2rem;
 	font-weight: 400;
 	line-height: 1.4;
 	margin: 0;
-	font-size: 1rem;
 }
 
 a {
@@ -156,7 +155,7 @@ a {
 	font-weight: 500;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'Oswald', sans-serif;
 	font-weight: 500;
 	font-style: normal;
@@ -298,7 +297,7 @@ body.front-page h1 {
 	font-size: 2rem;
 }
 
-h4.artist-heading {
+.artist-heading {
 	font-size: 1rem;
 	margin: 0;
 	color: var(--secondary-dark-color);
@@ -307,12 +306,18 @@ h4.artist-heading {
 /** Artists **/
 ul.artists,
 ul.artists h2,
-ul.artists h3
+ul.artists h3,
+ul.artists h4,
+ul.artists h5,
+ul.artists h6
 {
+	display: inline-block;
+	line-height: 1.1;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	transition: all .4s ease-in-out;
+	white-space: nowrap;
 }
 
 ul.artists a {
@@ -333,16 +338,33 @@ ul.artists sup {
 }
 
 ul.artists h2 {
-	font-size: 2rem;
-	white-space: nowrap;
-	display: inline-block;
+	font-size: 4rem;
 }
 
 ul.artists h3 {
-	font-size: 1.5rem;
-	white-space: nowrap;
-	display: inline-block;
+	font-size: calc(4rem*.8);
 }
+
+ul.artists h4 {
+	font-size: calc(4rem*.7)
+}
+
+ul.artists h5 {
+	font-size: calc(4rem*.6)
+}
+
+ul.artists h6 {
+	font-size: calc(4rem*.5)
+}
+
+/**
+    1.777rem
+
+    1.333rem
+
+    1rem
+**/
+
 
 /*** Footer ***/
 
@@ -424,21 +446,12 @@ ul.artists h3 {
 	 Modify as content requires.
 	 ========================================================================== */
 
-@media only screen and (min-width: 35rem) {
+@media only screen and (min-width: 40rem) {
 
 	/** General **/
-	h1 {
-		font-size: 3.157rem;
+	html {
+		font-size: 1.2rem;
 	}
-
-	h2 {
-		font-size: 1.777rem;
-	}
-
-	h4 {
-		font-size: 1.333rem;
-	}
-
 
 	/** Site header  */
 
@@ -484,17 +497,6 @@ ul.artists h3 {
 
 	main {
 		width: 50vw;
-	}
-
-
-	/** artists **/
-
-	ul.artists h2 {
-		font-size: 4rem;
-	}
-
-	ul.artists h3 {
-		font-size: 3.5rem;
 	}
 
 
