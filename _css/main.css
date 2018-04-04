@@ -81,54 +81,6 @@ textarea {
 	 Author's custom styles
 ========================================================================== */
 
-/**
- * Modular scale - perfect fourth
- * http://www.modularscale.com/?1&em&1.333
-
-    747.844%
-    7.478em
-
-    561.023%
-    5.61em
-
-    420.873%
-    4.209em
-
-    315.733%
-    3.157em
-
-    236.859%
-    2.369em
-
-    177.689%
-    1.777em
-
-    133.3%
-    1.333em
-
-    100%
-    1em
-
-    75.019%
-    0.75em
-
-    56.278%
-    0.563em
-
-    42.219%
-    0.422em
-
-    31.672%
-    0.317em
-
-    23.76%
-    0.238em
-
-    17.825%
-    0.178em
-
-**/
-
 /** Variables **/
 
 :root {
@@ -312,7 +264,7 @@ ul.artists h5,
 ul.artists h6
 {
 	display: inline-block;
-	line-height: 1.1;
+	line-height: 1.2;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -334,7 +286,6 @@ ul.artists li:hover *
 ul.artists sup {
 	color: var(--main-accent-color);
 	font-size: 1rem;
-	padding: .2rem;
 }
 
 ul.artists h2 {
@@ -356,15 +307,6 @@ ul.artists h5 {
 ul.artists h6 {
 	font-size: calc(4rem*.5)
 }
-
-/**
-    1.777rem
-
-    1.333rem
-
-    1rem
-**/
-
 
 /*** Footer ***/
 
@@ -452,6 +394,14 @@ ul.artists h6 {
 	html {
 		font-size: 1.2rem;
 	}
+
+	.site-header,
+	.main-navigation a:hover,
+	.main-navigation a.current,
+	a.tickets {
+		font-size: 1.2rem;
+	}
+
 
 	/** Site header  */
 
