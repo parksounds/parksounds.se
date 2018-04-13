@@ -19,6 +19,10 @@
   url: /artister/blood-command
   level: 6
 
+- name: Diskopunk
+  url: /artister/diskopunk
+  level: 6
+
 - name: Grant
   url: /artister/grant/
   level: 6
