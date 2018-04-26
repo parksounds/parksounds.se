@@ -6,7 +6,7 @@ link: https://parksounds.se/artister/diskopunk/
 slug: diskopunk
 title: Diskopunk
 spotify: 5Ck4KWOZsbrSQpiLimooDp
-image: https://res.cloudinary.com/parksounds/image/fetch/w_600,f_auto/https://parksounds.se/images/artists/diskopunk-park-sounds-2018.jpg
+image: https://res.cloudinary.com/parksounds/image/fetch/w_600/https://parksounds.se/images/artists/dead-park-sounds-2018.jpg
 ---
 
 ![{{page.title}}]({{page.image}})
