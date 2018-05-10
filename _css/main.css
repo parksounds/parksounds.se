@@ -349,20 +349,11 @@ ul.artists h6 {
 	width: 2rem;
 	height: 2rem;
 	margin-left: .5rem;
-	transition: fill .4s ease-in-out;
+	transition: all .3s ease-in-out;
 }
 
-
-.social-icons a:hover .icon-spotify {
-	fill: #1ED760;
-}
-
-.social-icons a:hover .icon-instagram {
-	fill: #E4405F;
-}
-
-.social-icons a:hover .icon-facebook {
-	fill: #3B5998;
+a .icon:hover {
+	transform: scale(0.9);
 }
 
 /** responsive embeds */
