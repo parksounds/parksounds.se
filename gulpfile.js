@@ -42,9 +42,22 @@ gulp.task('browser-sync', function () {
 //+ stream to browser sync 
 gulp.task('minify-css-dev',() => {
 
+    let dateHash = Date.now();
+
+    //clean up old css files
+    del(['./main.*.css']).then(paths => {
+        console.log('Deleted files and folders:\n', paths.join('\n'));
+    });
+
+    let dateHashYML = "date: " +dateHash;
+    fs.writeFile('./_data/cache.yml', dateHashYML, (err) => {
+        if (err) throw err;
+    });
+
     return gulp.src('./_css/main.css')
         .pipe(sourcemaps.init())
         .pipe(postcss(postcss_plugins))
+        .pipe(rename({suffix: '.' +dateHash}))
         .pipe(sourcemaps.write())
         .pipe(gulp.dest('./'))
         .pipe(browserSync.stream());
