@@ -1,20 +1,20 @@
-        <a class="logo" href="/">
-            <img src="/images/logo-park-sounds-2018.svg" alt="Park Sounds 2018" />
-            <span class="title">Park Sounds</span> <span class="date">Huskvarna Folkets Park 19 maj 2018</span>
-        </a>
-
-        <nav class="main-navigation">
-            <ul>
-                
-                <li><a href="/artister/" class="{% if page.url contains "/artister/" %}current{% endif %}">Artister</a></li>
-                
-                <li><a href="/info/" class="{% if page.url == "/info/" %}current{% endif %}">Info</a></li>
-
-                <li>
-                    <a href="/spelschema/" class="{% if page.url == "/spelschema/" %}current{% endif %}">Spelschema</a>
-                </li>
-                
-                <li><a href="//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711" class="tickets">Köp biljetter</a></li>
-
-            </ul>
-        </nav>
+<a class="logo" href="/">
+			<img src="/images/logo-park-sounds-2018.svg" alt="Park Sounds 2018" />
+			<span class="title">Park Sounds</span> <span class="date">Huskvarna Folkets Park 19 maj 2018</span>
+</a>
+<nav class="main-navigation">
+    <ul>
+        <li>
+            <a href="//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711" class="tickets">Biljetter</a>
+        </li>
+        <li>
+            <a href="/artister/" class="{% if page.url contains " /artister/ " %}current{% endif %}">Artister</a>
+        </li>
+        <li>
+            <a href="/spelschema/" class="{% if page.url == " /spelschema/ " %}current{% endif %}">Spelschema</a>
+        </li>
+        <li>
+            <a href="/info/" class="{% if page.url == " /info/ " %}current{% endif %}">Info</a>
+        </li>
+    </ul>
+</nav>
