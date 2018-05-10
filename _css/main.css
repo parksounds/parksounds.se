@@ -319,7 +319,11 @@ ul.artists h6 {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+}
 
+.site-footer,
+.site-footer a {
+	color: var(--main-light-color);
 }
 
 .site-footer .logo {
