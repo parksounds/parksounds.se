@@ -4,7 +4,7 @@ date: 2018-02-22 22:53:59+00:00
 title: Park Sounds 2018 - lördag 19 maj Huskvarna Folkets Park
 ---
 
-# Park Sounds 2018
+# Välkommen till Park Sounds 2018
 
 ## När öppnar Park Sounds?
 
@@ -24,7 +24,7 @@ Mat och dryck finns på området. Det är förbjudet att ta med alkoholhaltiga d
 
 ## Hur många scener har Park Sounds?
 
-Park Sounds har två scener: Teaterladan och Rotundan. Bägge scenerna är under tak. 
+Park Sounds har två scener: Teaterladan och Rotundan. Bägge scenerna är under tak. <a href="/spelschema">Vårt spelschema hittar du här</a>.
 
 <a href="/info">Här hittar du mer info om Park Sounds</a>
 
