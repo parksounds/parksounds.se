@@ -235,6 +235,15 @@ main {
 	min-height: 100vh;
 }
 
+body.video main {
+	margin: 0;
+	width: 100vw;
+}
+
+body.video main .content {
+	margin: 1em;
+}
+
 main p {
 	font-size: 1rem;
 }
@@ -444,6 +453,10 @@ a .icon:hover {
 		width: 50vw;
 	}
 
+	body.video main .content {
+		width: 50vw;
+		margin: auto;
+	}
 
 }
 

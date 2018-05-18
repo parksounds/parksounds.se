@@ -1,0 +1,53 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="sv-SE">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald:400,500|Roboto:400,500">
+    <link rel="stylesheet" href="/main.{{ site.data.cache.date }}.css">
+
+    <link rel="icon" type="image/png" href="/images/favicon.png" sizes="32x32">
+    <link rel="apple-touch-icon" href="/images/favicon-512x512.png">
+
+    {% seo %}
+</head>
+
+<body class="video {% if page.url == "/" %}front-page{% endif %}">
+
+    <header class="site-header">
+
+        {% include header.html %}
+
+    </header>
+
+    <main class="main-content">
+
+        {% if page.top-image %}
+            <img style="width:100vw;" src="{{ page.top-image }}" alt="Park Sounds" />
+            <!--div style="width:100vw;height:100vh;background: transparent url({{ page.top-image }}) 0 0 no-repeat;background-size: cover;"></div-->
+        {% else %}
+            {% include meta.html %}
+        {% endif %}
+       
+        <section class="content">
+        {{ content }}
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+
+        {% include footer.html %}
+
+    </footer>    
+
+    {% include bottom.html %}
+
+</body>
+</html>
