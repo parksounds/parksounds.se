@@ -20,7 +20,7 @@ Park Sounds har ingen åldersgräns, 18 år i barerna.
 
 ## Finns det mat och dryck på området?
 
-Mat och dryck finns på området. Det är förbjudet att ta med alkoholhaltiga drycker in på området.
+Mat och dryck finns på området. Vi tar kort och kontanter. Det är förbjudet att ta med alkoholhaltiga drycker in på området.
 
 ## Hur många scener har Park Sounds?
 
