@@ -5,13 +5,16 @@
 <nav class="main-navigation">
     <ul>
         <li>
-            <a href="/artister/" class="{% if page.url contains " /artister/ " %}current{% endif %}">Artister</a>
+            <a href="//secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711" class="tickets">Biljetter</a>
         </li>
         <li>
-            <a href="/spelschema/" class="{% if page.url == " /spelschema/ " %}current{% endif %}">Spelschema</a>
+            <a href="/artister/" class="{% if page.url contains "/artister/" %}current{% endif %}">Artister</a>
         </li>
         <li>
-            <a href="/info/" class="{% if page.url == " /info/ " %}current{% endif %}">Info</a>
+            <a href="/spelschema/" class="{% if page.url == "/spelschema/" %}current{% endif %}">Spelschema</a>
+        </li>
+        <li>
+            <a href="/info/" class="{% if page.url == "/info/" %}current{% endif %}">Info</a>
         </li>
     </ul>
 </nav>
