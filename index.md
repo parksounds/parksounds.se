@@ -2,9 +2,10 @@
 layout: video
 date: 2018-05-20 19:36:59+00:00
 title: Park Sounds 2018 - lördag 19 maj Huskvarna Folkets Park
+youtube: 4LejNQC1p2c
 ---
 
-# Bilder från Park Sounds 2018
+# Park Sounds 2018 aftermovie
 
 Park Sounds 2018, lördagen den 19 maj i Huskvarna Folkets Park. Med The Hives, Tove Styrke, Sarah Klang, Hurula, Blood Command, GRANT, Jeff Rosenstock, High Tyde och Diskopunk. Och alla fina människor i publiken.
 
