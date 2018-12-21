@@ -1,4 +1,4 @@
-# Park Sounds 2018 website repo
+# Park Sounds website
 
 ### Installation
 

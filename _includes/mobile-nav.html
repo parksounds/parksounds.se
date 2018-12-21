@@ -1,0 +1,22 @@
+<script>
+	document.addEventListener("DOMContentLoaded", function(t){
+
+	  console.log('werg');
+
+		var hamburger = document.querySelector('.hamburger');
+		var closer = document.querySelector('.mobile-nav-close');
+
+		hamburger.addEventListener('click', function(event) {
+		  event.preventDefault();
+		  hamburger.classList.toggle('is-active');
+		  document.querySelector(".mobile-nav").classList.toggle('active');
+		});
+
+		closer.addEventListener('click', function(event) {
+			event.preventDefault();
+			hamburger.classList.remove('is-active');
+		  document.querySelector(".mobile-nav").classList.toggle('active');
+		});
+
+	});    
+</script>
