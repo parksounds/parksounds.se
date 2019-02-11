@@ -125,7 +125,9 @@ a {
 	text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6
+{
 	font-family: 'League Gothic', sans-serif;
 	font-weight: 500;
 	font-style: normal;
@@ -133,16 +135,20 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 1rem 0;
 }
 
-h1 {
-	font-size: 2.369rem;
+h1, .h1 {
+	font-size: 4rem;
 }
 
-h2 {
-	font-size: 1.777rem;
+h2, .h2 {
+	font-size: 3rem;
 }
 
-h4 {
-	font-size: 1.333rem;
+h4, .h4 {
+	font-size: 2rem;
+}
+
+.artist {
+	margin-bottom: -.6rem;
 }
 
 /** Header and navigation **/
@@ -192,7 +198,7 @@ h4 {
   visibility: hidden;
   top: 0;
   left: 0;
-  background-color: var(--main-light-color);
+  background-color: black;
   overflow-x: hidden;
   padding-top: 2rem;
   transform: translateX(-300px);
@@ -225,7 +231,7 @@ h4 {
 .mobile-nav a {
   padding: .5rem 1rem;
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 2rem;
   color: white;
   display: block;
   opacity: 1;
@@ -252,7 +258,7 @@ h4 {
 }
 
 .mobile-nav .mobile-nav-close:hover {
-  background-color: #08089c;
+  background-color: var(--main-dark-color);
 }
 
 /* Hamburger */
@@ -289,15 +295,15 @@ h4 {
   content: "";
   position: absolute;
   box-sizing: border-box;
-  width: 70px;
-  height: 70px;
+  width: 25px;
+  height: 25px;
 }
 
 .hamburger.is-active:before {
 }
 
 .hamburger.is-active .line {
-  width: 35px;
+  width: 25px;
 }
 
 .hamburger.is-active .line:nth-child(1){
@@ -349,7 +355,8 @@ main img {
 	text-align: center;
 }
 
-.front-page main h1 {
+.front-page main h1
+{
 	font-size: 4rem;
 }
 
@@ -359,10 +366,12 @@ main img {
 }
 
 .front-page main .tickets {
-	color: var(--main-dark-color);
-	display: block;
+	border: 2px solid white;
+	color: white;
+	display: inline-block;
 	font-family: 'League Gothic';
 	font-size: 2.5rem;
+	padding: 0 .8rem;
 	margin-top: 5rem;
 	text-transform: uppercase;
 }
@@ -444,6 +453,11 @@ main img {
 		font-size: 1.2rem;
 	}
 
+	body {
+		background-size: contain;
+		background-position: 50% -250px;
+	}
+
 	.site-header,
 	.main-navigation a:hover,
 	.main-navigation a.current,
@@ -456,7 +470,6 @@ main img {
 
 	.site-header {
 		position: initial;
-		background: black;
 		padding: 1rem 0;
 		overflow-x: auto;
 	}
