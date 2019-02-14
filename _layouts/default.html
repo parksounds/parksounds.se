@@ -28,18 +28,36 @@ layout: compress
     <main class="main-content">
 
         {% if page.url == "/" or page.url == "/artister/" %}
-            {% include artists.html %}
-        {% endif %}
 
-        {{ content }}
+            {% include artists.html %}
+
+            <p>
+            <a href="https://secure.tickster.com/mcpx1mu3pkb29hl" class="tickets">Biljetter</a>
+            </p>
+
+        {% else %}
+
+            {{ content }}
+
+        {% endif %}
 
         {% include meta.html %}
 
     </main>
 
+
     <footer class="site-footer">
 
         {% include footer.html %}
+
+        {% if page.url == "/" or page.url == "/artister/" %}
+
+            <article>
+            {{ content }}
+            </article>
+
+        {% endif %}
+
 
     </footer>    
 
