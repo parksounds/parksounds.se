@@ -151,14 +151,6 @@ body.front-page main p {
 	margin-bottom: -.6rem;
 }
 
-p < .artist {
-	margin-bottom: -.6rem;
-}
-
-
-a.artist {
-	color: var(--main-light-color);
-}
 
 /** Header and navigation **/
 
@@ -191,10 +183,18 @@ a.artist {
 
 }
 
-.site-header .logo .date {
-	display: none;
+.site-header .logo .title:after {
+	content: '-';
+	margin: .2rem;
 }
 
+.site-header .logo .date {
+
+}
+
+.site-header .logo .location {
+	display: none;
+}
 
 /** Navigation */
 
@@ -374,8 +374,8 @@ main img {
 	margin-top: -2rem;
 }
 
-.front-page main .tickets {
-	border: 2px solid white;
+.tickets {
+	background: var(--main-dark-color);
 	color: white;
 	display: inline-block;
 	font-family: 'League Gothic';
@@ -383,6 +383,57 @@ main img {
 	padding: 0 .8rem;
 	margin-top: 5rem;
 	text-transform: uppercase;
+}
+
+/** Artists **/
+ul.artists,
+ul.artists h2,
+ul.artists h3,
+ul.artists h4,
+ul.artists h5,
+ul.artists h6
+{
+	display: inline-block;
+	line-height: 1.2;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	transition: all .4s ease-in-out;
+	white-space: nowrap;
+}
+
+ul.artists a {
+	text-decoration: none;
+}
+
+ul.artists li:hover *
+{
+
+}
+
+ul.artists sup {
+	color: var(--main-light-color);
+	font-size: 1rem;
+}
+
+ul.artists h2 {
+	font-size: 4rem;
+}
+
+ul.artists h3 {
+	font-size: calc(4rem*.8);
+}
+
+ul.artists h4 {
+	font-size: calc(4rem*.7)
+}
+
+ul.artists h5 {
+	font-size: calc(4rem*.6)
+}
+
+ul.artists h6 {
+	font-size: calc(4rem*.5)
 }
 
 

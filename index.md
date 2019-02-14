@@ -4,22 +4,13 @@ date: 2018-12-20 11:47:00+00:00
 title: Park Sounds 2019 - lördag 18 maj Huskvarna Folkets Park
 ---
 
-[Säkert!](/artister/sakert/){:.artist.h2}
-
-[Cult of Luna](/artister/cult-of-luna/){:.artist.h2}
-
-[Kite](/artister/kite/){:.artist.h2}
-
-
-# Park Sounds 
-## 18 maj 2019
-
 [Biljetter](https://secure.tickster.com/mcpx1mu3pkb29hl){:.tickets}
 
 <!--
+# Park Sounds 
 {:.h3}
 
-Park Sounds är en årligt återkommande festival i Huskvarna Folket Park. Årets upplaga av Park Sounds äger rum lördagen den 18 maj 2019. Vår publik får uppleva ett tiotal band och artister på våra två scener, inramat av en klassisk folkparksmiljö. På området finns det också mat och dryck. 
+Park Sounds är en årligt återkommande festival i Huskvarna Folkets Park. Årets upplaga av Park Sounds äger rum lördagen den 18 maj 2019. Vår publik får uppleva ett tiotal band och artister på våra två scener, inramat av en klassisk folkparksmiljö. På området finns det också mat och dryck. 
 
 2019 är tredje året för festivalen. Tidigare år har bland andra The Hives, Raised Fist, Tove Styrke, Johnossi, Sara Klang, Kvelertak, Hurula, Jens Lekman och många fler stått på scen. Park Sounds arrangeras av föreningen 1934.
 -->
