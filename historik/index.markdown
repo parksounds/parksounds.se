@@ -12,12 +12,35 @@ wordpress_id: 711
 # Tidigare Park Sounds
 
 
+## 2018 
+
+Andra upplagan av Park Sounds ägde rum lördag 19 maj 2018 i Huskvarna Folkets park. 
+
+*   **[The Hives](/historik/2018/the-hives)**
+    
+*   **[Tove Styrke](/historik/2018/tove-styrke)**
+    
+*   **[Sarah Klang](/historik/2018/sarah-klang)**
+    
+*   **[Hurula](/historik/2018/hurula)**
+    
+*   **[Blood Command (NO)](/historik/2018/blood-command)**
+    
+*   **[Dead! (UK) ny!](/historik/2018/dead)**
+    
+*   **[Diskopunk](/historik/2018/diskopunk)**
+    
+*   **[Grant](/historik/2018/grant/)**
+    
+*   **[High Tyde (UK)](/historik/2018/high-tyde)**
+    
+*   **[Jeff Rosenstock (US)](/historik/2018/jeff-rosenstock)**
+
 ## 2017
 
 Första Park Sounds ägde rum lördag 20 maj 2017 i Huskvarna Folkets park. Hela lineupen kan avnjutas nedan.
 
 ![](/images/2017/parksounds-2017-lineup-300x300.jpg)
-
 
  	
   * **[Raised Fist](/historik/2017/raised-fist/)**
