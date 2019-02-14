@@ -1,12 +1,25 @@
 ---
-layout: video
-date: 2018-05-20 19:36:59+00:00
-title: Park Sounds 2018 - lördag 19 maj Huskvarna Folkets Park
-youtube: 4LejNQC1p2c
+layout: default
+date: 2018-12-20 11:47:00+00:00
+title: Park Sounds 2019 - lördag 18 maj Huskvarna Folkets Park
 ---
 
-# Park Sounds 2018 aftermovie
+[Säkert!](/artister/sakert/){:.artist.h2}
 
-Park Sounds 2018, lördagen den 19 maj i Huskvarna Folkets Park. Med The Hives, Tove Styrke, Sarah Klang, Hurula, Blood Command, GRANT, Jeff Rosenstock, High Tyde och Diskopunk. Och alla fina människor i publiken.
+[Cult of Luna](/artister/cult-of-luna/){:.artist.h2}
 
-<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.10160348306160142.1073741832.276537785141&amp;type=1&amp;l=37d4a46807" data-width="750" data-show-text="true"></div>
+[Kite](/artister/kite/){:.artist.h2}
+
+
+# Park Sounds 
+## 18 maj 2019
+
+[Biljetter](https://secure.tickster.com/mcpx1mu3pkb29hl){:.tickets}
+
+<!--
+{:.h3}
+
+Park Sounds är en årligt återkommande festival i Huskvarna Folket Park. Årets upplaga av Park Sounds äger rum lördagen den 18 maj 2019. Vår publik får uppleva ett tiotal band och artister på våra två scener, inramat av en klassisk folkparksmiljö. På området finns det också mat och dryck. 
+
+2019 är tredje året för festivalen. Tidigare år har bland andra The Hives, Raised Fist, Tove Styrke, Johnossi, Sara Klang, Kvelertak, Hurula, Jens Lekman och många fler stått på scen. Park Sounds arrangeras av föreningen 1934.
+-->
