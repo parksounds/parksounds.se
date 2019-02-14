@@ -1,40 +1,14 @@
-- name: The Hives
-  url: /artister/the-hives  
-  level: 2
-
-- name: Tove Styrke 
-  url: /artister/tove-styrke 
-  level: 3
-
-- name: Sarah Klang
-  url: /artister/sarah-klang
-  level: 4
-
-- name: Hurula 
-  url: /artister/hurula 
-  level: 5
-
-- name: Blood Command (NO)
-  url: /artister/blood-command
-  level: 6
-
-- name: Dead! (UK)
-  url: /artister/dead
-  level: 6
+- name: Säkert
+  url: /artister/sakert  
+  level: 1
   status: ny!
 
-- name: Diskopunk
-  url: /artister/diskopunk
-  level: 6
+- name: Cult of Luna
+  url: /artister/cult-of-luna
+  level: 1
+  status: ny!
 
-- name: Grant
-  url: /artister/grant/
-  level: 6
-
-- name: High Tyde (UK)
-  url: /artister/high-tyde
-  level: 6
-
-- name: Jeff Rosenstock (US)
-  url: /artister/jeff-rosenstock
-  level: 6
+- name: Kite
+  url: /artister/kite
+  level: 2
+  status: ny!
