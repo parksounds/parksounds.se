@@ -1,7 +1,7 @@
 ---
 author: parksounds
 comments: false
-date: 2017-03-28 13:58:13+00:00
+date: 2019-02-17
 layout: default
 link: https://parksounds.se/info/
 slug: info
@@ -17,7 +17,7 @@ Festivalen har två scener, bägge är under tak. Ingen åldersgrans, 18 år i b
 
 Mat- och ölservering finns på området.
 
-Park Sounds genomförs med stod av Huskvarna Folkets Park, Kultur Jönköpings kommun samt Boverket.
+Park Sounds genomförs med stöd av Huskvarna Folkets Park, Kultur Jönköpings kommun och Boverket.
 
 ### Vanliga frågor
 
