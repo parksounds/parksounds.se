@@ -3,7 +3,7 @@ author: parksounds
 date: 2019-02-14
 layout: default
 link: https://parksounds.se/artister/cult-of-luna/
-slug: curl-of-luna
+slug: cult-of-luna
 title: Cult of Luna
 spotify: 7E7fJJpdVgr1F3pfAfRtHe
 youtube: UCgXfedHrL3D7uxHX9oiYBbQ

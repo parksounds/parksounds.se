@@ -1,12 +1,12 @@
 <ul class="artists">
 {% for item in site.data.artists %}
   <li>
-      <h{{item.level}}>
+      <span class ="h{{item.level}}">
 		<a href="{{ item.url }}">
 	      	{{ item.name }}
 <!--	      	<sup>{{ item.status }}</sup>-->
 	    </a>
-      </h{{item.level}}>
+      </span>
   </li>
 {% endfor %}
 </ul>
