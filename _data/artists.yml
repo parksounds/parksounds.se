@@ -1,14 +1,25 @@
 - name: Säkert!
   url: /artister/sakert  
   level: 1
-  status: ny!
+  status:
 
 - name: Cult of Luna
   url: /artister/cult-of-luna
   level: 1
-  status: ny!
+  status:
 
 - name: Kite
   url: /artister/kite
+  level: 1
+  status:
+
+- name: Junior Brielle
+  url: /artister/junior-brielle
   level: 2
-  status: ny!
+  status:
+
+- name: Maidavale
+  url: /artister/maidavale  
+  level: 2
+  status:
+
