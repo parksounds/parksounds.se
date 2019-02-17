@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-03-25
-layout: default
-link: https://parksounds.se/artister/grant/
+layout: archived
+link: /historik/2018/grant/
+redirect_from: /artister/grant/
 slug: grant
 title: Grant
 spotify: 6SkVKlAmIWVD0LQvCGQqSj

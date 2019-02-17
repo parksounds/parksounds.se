@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-02-22
-layout: default
-link: https://parksounds.se/artister/jeff-rosenstock/
+layout: archived
+link: /historik/2018/jeff-rosenstock/
+redirect_from: /artister/jeff-rosenstock/
 slug: jeff-rosenstock
 title: Jeff Rosenstock
 spotify: 0wNZvrIMNUCs24G0wFg2D6

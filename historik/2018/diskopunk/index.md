@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-03-22
-layout: default
-link: https://parksounds.se/artister/diskopunk/
+layout: archived
+link: /historik/2018/diskopunk/
+redirect_from: /artister/diskopunk/
 slug: diskopunk
 title: Diskopunk
 spotify: 5Ck4KWOZsbrSQpiLimooDp

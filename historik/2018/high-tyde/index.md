@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-03-23
-layout: default
-link: https://parksounds.se/artister/high-tyde/
+layout: archived
+link: /historik/2018/high-tyde/
+redirect_from: /artister/high-tyde/
 slug: high-tyde
 title: High Tyde
 spotify: 5CMAV0Fr8uS2YqlR1ZG5lA

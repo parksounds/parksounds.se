@@ -4,6 +4,7 @@ comments: false
 date: 2017-03-28 10:23:41+00:00
 layout: archived
 link: https://parksounds.se/historik/2017/johnossi/
+redirect_from: /artister/johnossi/
 slug: johnossi
 title: Johnossi
 youtube: rQDTG-caCOs

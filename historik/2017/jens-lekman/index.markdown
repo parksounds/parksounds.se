@@ -4,6 +4,7 @@ comments: false
 date: 2017-03-28 10:23:42+00:00
 layout: archived
 link: https://parksounds.se/historik/2017/jens-lekman/
+redirect_from: /artister/jens-lekman/
 slug: jens-lekman
 title: Jens Lekman
 wordpress_id: 495

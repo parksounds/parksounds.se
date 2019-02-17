@@ -4,6 +4,7 @@ comments: false
 date: 2017-03-23 10:30:22+00:00
 layout: archived
 link: https://parksounds.se/historik/2017/rein/
+redirect_from: /artister/rein/
 slug: rein
 title: Rein
 wordpress_id: 341

@@ -4,6 +4,7 @@ comments: false
 date: 2017-05-12 08:30:58+00:00
 layout: archived
 link: https://parksounds.se/historik/2017/dj-gunnel/
+redirect_from: /artister/dj-gunnel/
 slug: dj-gunnel
 title: DJ Gunnel
 wordpress_id: 666

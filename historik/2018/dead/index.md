@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-03-22
-layout: default
-link: https://parksounds.se/artister/dead/
+layout: archived
+link: /historik/2018/dead/
+redirect_from: /artister/dead/
 slug: dead
 title: Dead
 spotify: 2uQCQ4BmANn12eOlOfkwqF

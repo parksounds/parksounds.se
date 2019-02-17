@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-02-22
-layout: default
-link: https://parksounds.se/artister/blood-command/
+layout: archived
+link: /historik/2018/blood-command/
+redirect_from: /artister/blood-command/
 slug: blood-command
 title: Blood Command
 spotify: 4WfUbvICLrqPW9rzuNGS1f

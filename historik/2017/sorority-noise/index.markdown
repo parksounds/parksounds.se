@@ -3,7 +3,8 @@ author: parksounds
 comments: false
 date: 2017-03-28 10:23:42+00:00
 layout: archived
-link: https://parksounds.se/historik/2017/sorority-noise/
+link: /historik/2017/sorority-noise/
+redirect_from: /artister/sorority-noise/
 slug: sorority-noise
 title: Sorority Noise
 wordpress_id: 497

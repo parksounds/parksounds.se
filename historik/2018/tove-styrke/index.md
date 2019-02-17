@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-03-23
-layout: default
-link: https://parksounds.se/artister/tove-styrke/
+layout: archived
+link: /historik/2018/tove-styrke/
+redirect_from: /artister/tove-styrke/
 slug: tove-styrke
 title: Tove Styrke
 spotify: 2QSPrJfYeRXaltEEiriXN9

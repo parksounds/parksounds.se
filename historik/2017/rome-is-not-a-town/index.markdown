@@ -4,6 +4,7 @@ comments: false
 date: 2017-03-28 10:23:42+00:00
 layout: archived
 link: https://parksounds.se/historik/2017/rome-is-not-a-town/
+redirect_from: /artister/rome-is-not-a-town/
 slug: rome-is-not-a-town
 title: Rome is not a Town
 wordpress_id: 499

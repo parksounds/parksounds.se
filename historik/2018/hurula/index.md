@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-02-22
-layout: default
-link: https://parksounds.se/artister/hurula/
+layout: archived
+link: /historik/2018/hurula/
+redirect_from: /artister/hurula/
 slug: hurula
 title: Hurula
 spotify: 5haVwjDd8z1dsR0uQewwoP

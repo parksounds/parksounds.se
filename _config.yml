@@ -6,7 +6,8 @@ highlighter: null
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  - jekyll-redirect-from
+  
 # ignore gulp and stuff
 exclude: ["node_modules", "gulpfile.js", "package.json", "bower_components", "gulp"]
 

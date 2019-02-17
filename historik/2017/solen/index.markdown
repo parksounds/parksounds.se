@@ -4,6 +4,7 @@ comments: false
 date: 2017-03-28 10:23:42+00:00
 layout: archived
 link: https://parksounds.se/historik/2017/solen/
+redirect_from: /artister/solen/
 slug: solen
 title: Solen
 wordpress_id: 498

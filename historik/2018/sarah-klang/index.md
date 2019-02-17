@@ -2,8 +2,9 @@
 author: parksounds
 comments: false
 date: 2018-02-18 17:06:32+00:00
-layout: default
-link: https://parksounds.se/artister/sarah-klang/
+layout: archived
+link: /historik/2018/sarah-klang/
+redirect_from: /artister/sarah-klang/
 slug: sarah-klang
 title: Sarah Klang
 spotify: 6Pm0evhKSUGTGYDxzpGGKf

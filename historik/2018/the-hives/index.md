@@ -1,8 +1,9 @@
 ---
 author: parksounds
 date: 2018-02-18 17:07:33+00:00
-layout: default
-link: https://parksounds.se/artister/the-hives/
+layout: archived
+link: /historik/2018/the-hives/
+redirect_from: /artister/the-hives/
 slug: the-hives
 title: The Hives
 spotify: 4DToQR3aKrHQSSRzSz8Nzt

@@ -11,7 +11,7 @@ wordpress_id: 553
 
 # Information
 
-Årets festival äger rum i Huskvarna Folkets Park lördag 19 maj.
+Årets festival äger rum i Huskvarna Folkets Park lördag 18 maj.
 
 Festivalen har två scener, bägge är under tak. Ingen åldersgrans, 18 år i baren. 
 
@@ -22,7 +22,7 @@ Park Sounds genomförs med stod av Huskvarna Folkets Park, Kultur Jönköpings k
 ### Vanliga frågor
 
 **När äger Park Sounds rum?**  
-Lördag 19 maj
+Lördag 18 maj
 
 
 **Var är Park Sounds?**  
@@ -30,7 +30,7 @@ I Huskvarna Folkets Park, Huskvarna
 
 
 **Var köper jag biljetter till Park Sounds?**  
-Du köper [biljetter hos Tickster](https://secure.tickster.com/Intro.aspx?ERC=MMM4DEZMGZ96711).
+Du köper [biljetter hos Tickster](https://secure.tickster.com/mcpx1mu3pkb29hl).
 
 
 **Hur är festivalen Park Sounds?**  
@@ -53,7 +53,7 @@ Garderobsmöjligheter finns i huvudbyggnaden på området.
 
 
 **Tåg**  
-Huskvarna Tagstation ligger några meter från Huskvarna Folkets Park. Sök på [SJ](https://www.sj.se/#/sok/fran/Huskvarna/enkel/avgang//avgang//VU///0//) eller [Jönköpings länstrafik](http://www.jlt.se/)
+Huskvarna Tagstation ligger några meter från Huskvarna Folkets Park. Sök på [SJ](https://www.sj.se/) eller [Jönköpings länstrafik](http://www.jlt.se/)
 
 
 **Bil**  
@@ -67,7 +67,7 @@ Lokaltrafiken kör till Sandagymnasiet, linje 1/röd sök resa på [Jönköpings
 ### Var kan jag bo?
 
 **Hotell:**  
-Huskvarna Stadshotell, Erik Dahlbergsgatan 20  
+Huskvarna Stadshotell, Erik Dahlbergsgatan 20
 Tel: 036 - 13 05 07
 
 **Vandrarhem:**  
