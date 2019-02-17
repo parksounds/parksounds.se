@@ -1,0 +1,67 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="sv-SE">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="/main.{{ site.data.cache.date }}.css">
+
+    <link rel="icon" type="image/png" href="/images/favicon.png" sizes="32x32">
+    <link rel="apple-touch-icon" href="/images/favicon-512x512.png">
+
+    {% seo %}
+</head>
+
+<body class="front-page">
+
+    <header class="site-header">
+
+        {% include header.html %}
+
+    </header>
+
+    <main class="main-content">
+
+        {% if page.url == "/" or page.url == "/artister/" %}
+
+            {% include artists.html %}
+
+            <p>
+            <a href="https://secure.tickster.com/mcpx1mu3pkb29hl" class="tickets">Biljetter</a>
+            </p>
+
+        {% else %}
+
+            {{ content }}
+
+        {% endif %}
+
+        {% include meta.html %}
+
+    </main>
+
+
+    <footer class="site-footer">
+
+        {% include footer.html %}
+
+        {% if page.url == "/" or page.url == "/artister/" %}
+
+            <article>
+            {{ content }}
+            </article>
+
+        {% endif %}
+
+
+    </footer>    
+
+    {% include bottom.html %}
+
+</body>
+</html>

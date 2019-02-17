@@ -149,18 +149,6 @@ h4, .h4 {
 	font-size: 2rem;
 }
 
-.front-page footer article {
-	max-width: 80vw;
-	text-align: left;
-	margin-top: 2em;
-}
-
-
-.front-page footer article * {
-	font-family: inherit;
-	font-size: small;
-}
-
 
 /** Header and navigation **/
 
@@ -216,7 +204,7 @@ h4, .h4 {
   visibility: hidden;
   top: 0;
   left: 0;
-  background-color: black;
+  background-color: var(--main-dark-color);
   overflow-x: hidden;
   padding-top: 2rem;
   transform: translateX(-300px);
@@ -253,7 +241,7 @@ h4, .h4 {
   color: white;
   display: block;
   opacity: 1;
-  /*transition: all 0.3s ease-in-out;*/
+  transition: all 0.2s ease-in-out;
 }
 
 .mobile-nav a:not(.mobile-nav-close):hover {
@@ -385,41 +373,36 @@ main img {
 	text-align: center;
 }
 
-.front-page main h1
-{
-/*	font-size: 4rem;*/
+.front-page footer article {
+	max-width: 80vw;
+	text-align: left;
+	margin-top: 2em;
 }
 
-.front-page main h2 {
-	font-size: 3rem;
-	margin-top: -2rem;
+.front-page footer article * {
+	font-family: inherit;
+	font-size: small;
 }
+
 
 .tickets {
 	background: var(--main-dark-color);
 	color: white;
-	display: inline-block;
-	font-family: 'League Gothic';
+	font-family: 'League Gothic', sans-serif;
 	font-size: 2.5rem;
+	text-transform: uppercase;
 	padding: 0 .8rem;
 	margin-top: 5rem;
-	text-transform: uppercase;
 }
 
 /** Artists **/
-ul.artists,
-ul.artists h2,
-ul.artists h3,
-ul.artists h4,
-ul.artists h5,
-ul.artists h6
+ul.artists
 {
 	display: inline-block;
 	line-height: 1.2;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	transition: all .4s ease-in-out;
 	white-space: nowrap;
 }
 
@@ -437,25 +420,7 @@ ul.artists sup {
 	font-size: 1rem;
 }
 
-ul.artists h2 {
-	font-size: 4rem;
-}
 
-ul.artists h3 {
-	font-size: calc(4rem*.8);
-}
-
-ul.artists h4 {
-	font-size: calc(4rem*.7)
-}
-
-ul.artists h5 {
-	font-size: calc(4rem*.6)
-}
-
-ul.artists h6 {
-	font-size: calc(4rem*.5)
-}
 
 
 /*** Footer ***/
