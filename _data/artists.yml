@@ -1,3 +1,8 @@
+- name: Teddybears
+  url: /artister/teddybears
+  level: 1
+  status: ny!
+
 - name: Säkert!
   url: /artister/sakert  
   level: 1
@@ -13,10 +18,20 @@
   level: 1
   status:
 
+- name: LION
+  url: /artister/lion
+  level: 2
+  status: ny!
+
 - name: Junior Brielle
   url: /artister/junior-brielle
   level: 2
   status:
+
+- name: Queen Zee (UK)
+  url: /artister/queen-zee
+  level: 2
+  status: ny!
 
 - name: Maidavale
   url: /artister/maidavale  

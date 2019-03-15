@@ -1,13 +1,13 @@
 ---
 author: parksounds
-date: 2019-02-17
+date: 2019-03-15
 layout: default
-link: https://parksounds.se/artister/spielbergs/
-slug: spielbergs
-title: Spielbergs
-spotify: 1PTXobwsxwhjcIajCjV8u4
-youtube: DlekuYTsy90
-image: /images/artists/2018/spielbergs/spielbergs.png
+link: https://parksounds.se/artister/lion/
+slug: lion
+title: LION
+spotify: 3yIyRdeLGNW1NhRZaFrMW4
+youtube: QxEI_NXRxkI
+image: /images/artists/2018/lion/lion_gul.png
 ---
 
 ![{{page.title}}]({{page.image}})
