@@ -4,7 +4,7 @@ date: 2019-03-15
 layout: default
 link: https://parksounds.se/artister/queen-zee/
 slug: queen-zee
-title: Queen Zee
+title: Queen Zee (UK)
 spotify: 4Fu68byHFGEiID8pHyYxFL
 youtube: NPMnlaojIGI
 image: /images/artists/2018/queen-zee/queen_zee_orange.png
@@ -12,7 +12,7 @@ image: /images/artists/2018/queen-zee/queen_zee_orange.png
 
 ![{{page.title}}]({{page.image}})
 
-# Hyllade brittiska Queen Zee till Park Sounds!
+# Hyllade brittiska Queen Zee (UK) till Park Sounds!
 
 Queen Zee berör, inte bara Iggy Pop & Liam Gallagher!
 
