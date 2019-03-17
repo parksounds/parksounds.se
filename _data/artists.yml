@@ -17,16 +17,21 @@
   url: /artister/kite
   level: 1
   status:
-
-- name: LION
-  url: /artister/lion
-  level: 2
-  status: ny!
-
-- name: Junior Brielle
+  
+  - name: Junior Brielle
   url: /artister/junior-brielle
   level: 2
   status:
+  
+  - name: Spielbergs (NO)
+  url: /artister/spielbergs
+  level: 2
+  status: 
+
+- name: LION (UK)
+  url: /artister/lion
+  level: 2
+  status: ny!
 
 - name: Queen Zee (UK)
   url: /artister/queen-zee
@@ -38,7 +43,4 @@
   level: 2
   status:
 
-- name: Spielbergs (NO)
-  url: /artister/spielbergs
-  level: 2
-  status: 
+
