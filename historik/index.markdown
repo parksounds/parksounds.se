@@ -16,6 +16,8 @@ wordpress_id: 711
 
 Andra upplagan av Park Sounds ägde rum lördag 19 maj 2018 i Huskvarna Folkets park. 
 
+![](/images/poster-parksounds-2018.png)
+
 *   **[The Hives](/historik/2018/the-hives)**
     
 *   **[Tove Styrke](/historik/2018/tove-styrke)**
