@@ -376,6 +376,24 @@ main img {
 	text-align: center;
 }
 
+.front-page main article {
+	text-align: left;
+}
+
+.front-page main article .h4 {
+	margin-bottom: 0;
+}
+
+.front-page main article p {
+	margin-top: 0;
+}
+
+.front-page main article a,
+.info main a {
+	text-decoration: underline;
+}
+
+
 .front-page footer article {
 	max-width: 80vw;
 	text-align: left;
