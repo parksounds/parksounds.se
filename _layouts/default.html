@@ -17,7 +17,7 @@ layout: compress
     {% seo %}
 </head>
 
-<body class="{% if page.url == "/" %}front-page{% endif %}">
+<body class="{% if page.url == "/" %}front-page{% endif %} {{ page.slug }}">
 
     <header class="site-header">
 
@@ -28,6 +28,8 @@ layout: compress
     <main class="main-content">
 
         {% if page.url == "/" or page.url == "/artister/" %}
+
+            {{ content }}
 
             {% include artists.html %}
 

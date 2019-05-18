@@ -17,7 +17,7 @@ layout: compress
     {% seo %}
 </head>
 
-<body class="front-page">
+<body class="{% if page.url == "/" %}front-page{% endif %}">
 
     <header class="site-header">
 
@@ -27,17 +27,17 @@ layout: compress
 
     <main class="main-content">
 
+        <article>
+            {{ content }}
+        </article>
+
         {% if page.url == "/" or page.url == "/artister/" %}
 
             {% include artists.html %}
 
             <p>
-            <a href="https://secure.tickster.com/mcpx1mu3pkb29hl" class="tickets">Biljetter</a>
+            <a href="https://secure.tickster.com/mcpx1mu3pkb29hl" class="tickets">Köp biljetter</a>
             </p>
-
-        {% else %}
-
-            {{ content }}
 
         {% endif %}
 
@@ -53,7 +53,22 @@ layout: compress
         {% if page.url == "/" or page.url == "/artister/" %}
 
             <article>
-            {{ content }}
+
+                <h2 class="h4">Park Sounds</h2>
+
+                <p>
+                Park Sounds är en årligt återkommande festival i Huskvarna Folkets Park. Årets upplaga av Park Sounds äger rum lördagen den 18 maj 2019. Vår publik får uppleva ett tiotal band och artister på våra två scener, inramat av en klassisk folkparksmiljö. På området finns det också mat och dryck.
+                </p>
+
+                <p>
+                2019 är tredje året för festivalen. Tidigare år har bland andra The Hives, Raised Fist, Tove Styrke, Johnossi, Sara Klang, Kvelertak, Hurula, Jens Lekman och många fler stått på scen.
+                </p>
+
+                <p>
+                Park Sounds arrangeras av föreningen 1934.
+                </p>
+
+
             </article>
 
         {% endif %}
