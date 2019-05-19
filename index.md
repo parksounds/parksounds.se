@@ -1,14 +1,11 @@
 ---
-layout: default
+layout: video
 date: 2018-12-20 11:47:00+00:00
 title: Park Sounds 2019 - lördag 18 maj Huskvarna Folkets Park
 ---
 
-# Park Sounds 
-{:.h4}
+# Park Sounds 2019 i bilder
 
-Park Sounds är en årligt återkommande festival i Huskvarna Folkets Park. Årets upplaga av Park Sounds äger rum lördagen den 18 maj 2019. Vår publik får uppleva ett tiotal band och artister på våra två scener, inramat av en klassisk folkparksmiljö. På området finns det också mat och dryck. 
+Park Sounds 2019, lördagen den 18 maj i Huskvarna Folkets Park. Med Teddybears, Säkert!, Cult of Luna, Kite, Junior Brielle, Spielbergs (NO), LION (UK), Queen Zee (UK) och Maidavale. Skön musik och fina människor, det här gör vi igen.
 
-2019 är tredje året för festivalen. Tidigare år har bland andra The Hives, Raised Fist, Tove Styrke, Johnossi, Sara Klang, Kvelertak, Hurula, Jens Lekman och många fler stått på scen. 
-
-Park Sounds arrangeras av föreningen 1934.
+<div class="fb-post" data-href="https://www.facebook.com/parksoundsfestival/posts/10161739217770142" data-width="750" data-show-text="true"></div>
