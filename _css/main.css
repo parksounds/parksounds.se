@@ -103,11 +103,11 @@ textarea {
  
   --main-accent-color: #FF4E00;
 
-  --secondary-accent-color: #FF4E00;
+  --secondary-accent-color: #666;
  
   --secondary-light-color: #fff;
 
-  --third-accent-color: #FF4E00;
+  --third-accent-color: black;
 }
 
 /** General **/
@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-	font-size: 4rem;
+	font-size: 3rem;
 }
 
 h2, .h2 {
@@ -166,7 +166,7 @@ h4, .h4 {
 	justify-content: space-between;
 	padding: .5rem;
 	/*text-transform: uppercase;*/
-	font-size: 1.6rem;
+	font-size: 1.2rem;
 	position: sticky;
 	top: 0;
 }
@@ -211,7 +211,7 @@ h4, .h4 {
   visibility: hidden;
   top: 0;
   left: 0;
-  background-color: var(--main-dark-color);
+  background-color: black;
   overflow-x: hidden;
   padding-top: 2rem;
   transform: translateX(-300px);
@@ -244,7 +244,7 @@ h4, .h4 {
 .mobile-nav a {
   padding: .5rem 1rem;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: white;
   display: block;
   opacity: 1;
@@ -385,7 +385,9 @@ main img {
 }
 
 .front-page main article .h4 {
-	margin-bottom: 0;
+	text-align: center;
+	font-size: 1.5rem;
+	color: var(--secondary-accent-color);
 }
 
 .front-page main article p {
@@ -415,7 +417,7 @@ main img {
 	border: 1px solid var(--main-light-color);
 	color: white;
 	font-family: 'Sharp Grotesk Book 24', sans-serif;
-	font-size: 2.5rem;
+	font-size: 2rem;
 	text-transform: uppercase;
 	padding: 0 .8rem;
 	margin-top: 5rem;

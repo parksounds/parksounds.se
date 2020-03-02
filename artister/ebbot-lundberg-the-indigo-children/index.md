@@ -5,12 +5,12 @@ layout: default
 link: https://parksounds.se/artister/ebbot-lundberg-the-indigo-children/
 slug: ebbot-lundberg-the-indigo-children
 title: Ebbot Lundberg & The Indigo Children
-#spotify: 3gqv1kgivAc92KnUm4elKv
-#youtube: 8P09rxVaQAM
+spotify: 1bbQonthjOgjcUc1vyy1XZ
+youtube: orQtHCTVm1s
 image: https://res.cloudinary.com/parksounds/image/upload/c_scale,w_1000/v1583174548/ebbot-lundberg-the-indigo-children-park-sounds-2020.jpg
 ---
 
-<!-- ![{{page.title}}]({{page.image}}) -->
+![{{page.title}}]({{page.image}})
 
 # Ebbot Lundberg & The Indigo Children
 

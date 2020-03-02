@@ -5,9 +5,12 @@ layout: default
 link: https://parksounds.se/artister/millencolin/
 slug: millencolin
 title: Millencolin
+youtube: n64VxxFfCgo
+spotify: 74xFFXkvOq9dPDigOWTHiX
+image: https://res.cloudinary.com/parksounds/image/upload/c_scale,w_1000/v1583174669/millencolin-park-sounds-2020.jpg
 ---
 
-<!-- ![{{page.title}}]({{page.image}}) -->
+![{{page.title}}]({{page.image}})
 
 # Millencolin till Park Sounds
 
