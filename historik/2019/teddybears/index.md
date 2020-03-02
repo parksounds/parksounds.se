@@ -1,7 +1,7 @@
 ---
 author: parksounds
 date: 2019-03-15
-layout: default
+layout: archived
 link: https://parksounds.se/artister/teddybears/
 slug: teddybears
 title: Queen Zee

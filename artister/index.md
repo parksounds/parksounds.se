@@ -10,4 +10,5 @@ title: Klara artister
 
 # Klara artister
 
-Klara för Park Sounds 2018:
+Klara för Park Sounds 2020. Fler artister tillkommer inom kort.
+

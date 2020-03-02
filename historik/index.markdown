@@ -6,10 +6,31 @@ layout: archived
 link: https://parksounds.se/historik/
 slug: historik
 title: Historik
-wordpress_id: 711
 ---
 
 # Tidigare Park Sounds
+
+
+## 2019 
+Tredje Park Sounds ägde rum lördag 18 maj 2019 i Huskvarna Folkets park. 
+
+* **[Teddybears](/historik/2019/teddybears)**
+
+* **[Säkert!](/historik/2019/sakert)**
+
+* **[Cult of Luna](/historik/2019/cult-of-luna)**
+
+* **[Kite](/historik/2019/kite)**
+  
+* **[Junior Brielle](/historik/2019/junior-brielle)**
+  
+* **[Spielbergs (NO)](/historik/2019/spielbergs)**
+
+* **[LION (UK)](/historik/2019/lion)**
+
+* **[Queen Zee (UK)](/historik/2019/queen-zee)**
+
+* **[Maidavale](/historik/2019/maidavale)**
 
 
 ## 2018 

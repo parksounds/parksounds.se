@@ -6,12 +6,11 @@ layout: default
 link: https://parksounds.se/spelschema/
 slug: spelschema
 title: Spelschema Park Sounds 2019
-image: /images/spelschema-park-sounds-2019.png
 
 ---
 
-# Spelschema Park Sounds 2019
+# Spelschema Park Sounds 2020
 
-Årets spelschema för Park Sounds 2019, med reservation för ändringar.
+Årets spelschema för Park Sounds 2020 släpps när det är klart. Håll ut!
 
-![{{page.title}}]({{page.image}})
+<!--![{{page.title}}]({{page.image}})-->

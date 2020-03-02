@@ -1,46 +1,15 @@
-- name: Teddybears
-  url: /artister/teddybears
+- name: Millencolin
+  url: /artister/millencolin
   level: 1
   status: ny!
 
-- name: Säkert!
-  url: /artister/sakert  
+- name: Ebbot Lundberg & The Indigo Children
+  url: /artister/ebbot-lundberg-the-indigo-children
   level: 1
-  status:
-
-- name: Cult of Luna
-  url: /artister/cult-of-luna
-  level: 1
-  status:
-
-- name: Kite
-  url: /artister/kite
-  level: 1
-  status:
-  
-- name: Junior Brielle
-  url: /artister/junior-brielle
-  level: 2
-  status:
-  
-- name: Spielbergs (NO)
-  url: /artister/spielbergs
-  level: 2
-  status: 
-
-- name: LION (UK)
-  url: /artister/lion
-  level: 2
   status: ny!
 
-- name: Queen Zee (UK)
-  url: /artister/queen-zee
-  level: 2
+- name: Otoboke Beaver
+  url: /artister/otoboke-beaver  
+  level: 1
   status: ny!
-
-- name: Maidavale
-  url: /artister/maidavale  
-  level: 2
-  status:
-
 

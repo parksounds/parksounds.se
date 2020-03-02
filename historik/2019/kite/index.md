@@ -1,7 +1,7 @@
 ---
 author: parksounds
 date: 2019-02-14
-layout: default
+layout: archived
 link: https://parksounds.se/artister/kite/
 slug: kite
 title: Kite
@@ -24,4 +24,4 @@ De är Sveriges bästa elektroniska popband.” - Fredrik Strage, TV4 Nyhetsmorg
 
 På med dansskorna och kom ut i natten.
 
-Vi ses 18 maj, Huskvarna Folkets Park.
+Vi ses i Huskvarna Folkets Park.

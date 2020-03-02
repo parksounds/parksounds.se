@@ -1,7 +1,7 @@
 ---
 author: parksounds
 date: 2019-02-14
-layout: default
+layout: archived
 link: https://parksounds.se/artister/sakert/
 slug: sakert
 title: Säkert!

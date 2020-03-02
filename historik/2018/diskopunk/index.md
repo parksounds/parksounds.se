@@ -19,4 +19,4 @@ Diskopunk tillhör ingen. De har förvaltat det bästa ur Svenska musikarvet. En
 De stängde Dynamoscenen under Where's the Music. Musiksajten hymn.se beskrev det såhär:
 "De gör en dansant form av rock ’n’ roll med fruktansvärt medryckande basgångar och får således publiken att dansa hej vilt" 
 
-Vi blir inte förvånade om Diskopunk blir årets uppstickare. Vi ses i världens bästa rotunda den 19 maj.
+Vi blir inte förvånade om Diskopunk blir årets uppstickare. Vi ses i världens bästa rotunda.

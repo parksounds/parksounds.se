@@ -1,7 +1,7 @@
 ---
 author: parksounds
 date: 2019-02-17
-layout: default
+layout: archived
 link: https://parksounds.se/artister/junior-brielle/
 slug: junior-brielle
 title: Junior Brielle till Park Sounds

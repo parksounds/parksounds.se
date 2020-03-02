@@ -25,4 +25,4 @@ Hurulas texter är råa, ärliga och beskriver det kalla i livet. Ensamheten, at
 
 Hurulas knockoutframträdande i en grusgrop i SVTs Ebbots ark fick Rebecca & Fiona att börja gråta och Ola Salo att utbrista “Jag känner mig helt jävla bortblåst av den här spelningen!”
 
-Vi är redo för svett, attityd och känslor när Hurula äntrar scenen på Park Sounds den 19 maj. 
+Vi är redo för svett, attityd och känslor när Hurula äntrar scenen på Park Sounds. 

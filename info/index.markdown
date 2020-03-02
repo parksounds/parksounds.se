@@ -11,7 +11,7 @@ wordpress_id: 553
 
 # Information
 
-Årets festival äger rum i Huskvarna Folkets Park lördag 18 maj.
+Årets festival äger rum i Huskvarna Folkets Park lördag 30 maj 2020.
 
 Festivalen har två scener, bägge är under tak. Ingen åldersgrans, 18 år i baren. 
 
@@ -23,7 +23,7 @@ Park Sounds genomförs med stöd av Huskvarna Folkets Park, Kultur Jönköpings 
 {:.h4}
 
 **När äger Park Sounds rum?**  
-Lördag 18 maj
+Lördag 30 maj 2020
 
 
 **Var är Park Sounds?**  
@@ -31,7 +31,7 @@ I Huskvarna Folkets Park, Huskvarna
 
 
 **Var köper jag biljetter till Park Sounds?**  
-Du köper [biljetter hos Tickster](https://secure.tickster.com/mcpx1mu3pkb29hl).
+Du köper [biljetter hos Tickster](https://secure.tickster.com/e7p95k0zedfrlt3).
 
 
 **Hur är festivalen Park Sounds?**  

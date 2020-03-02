@@ -1,7 +1,7 @@
 ---
 author: parksounds
 date: 2019-03-15
-layout: default
+layout: archived
 link: https://parksounds.se/artister/queen-zee/
 slug: queen-zee
 title: Queen Zee (UK)
@@ -36,4 +36,4 @@ Några betyg:
 
 "They're strange people from Liverpool. I don't wanna say they're dirty, they look a little weird, but theyrock like crazy" - Iggy Pop
 
-Vi ser fram emot ännu ett exklusivt Sverigegig den 18 maj!
+Vi ser fram emot ännu ett exklusivt Sverigegig!

@@ -27,4 +27,4 @@ Idag har Tove över 100 miljoner streams med hits som “Borderline”, “Mista
 
 “...she’s making some of the best pop right now” - MTV UK
 
-Vi väntar med spänning på att få se Tove Styrke live i Teaterladan igen.  Vi ses på Park Sounds 19 maj!
+Vi väntar med spänning på att få se Tove Styrke live i Teaterladan igen.  Vi ses på Park Sounds!
