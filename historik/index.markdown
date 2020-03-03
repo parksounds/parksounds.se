@@ -12,7 +12,11 @@ title: Historik
 
 
 ## 2019 
+{: .h4}
+
 Tredje Park Sounds ägde rum lördag 18 maj 2019 i Huskvarna Folkets park. 
+
+![](https://res.cloudinary.com/parksounds/image/upload/c_scale,w_300/v1583262817/parksounds-2019-affisch.jpg)
 
 * **[Teddybears](/historik/2019/teddybears)**
 
@@ -34,6 +38,7 @@ Tredje Park Sounds ägde rum lördag 18 maj 2019 i Huskvarna Folkets park.
 
 
 ## 2018 
+{: .h4}
 
 Andra upplagan av Park Sounds ägde rum lördag 19 maj 2018 i Huskvarna Folkets park. 
 
@@ -60,6 +65,7 @@ Andra upplagan av Park Sounds ägde rum lördag 19 maj 2018 i Huskvarna Folkets 
 *   **[Jeff Rosenstock (US)](/historik/2018/jeff-rosenstock)**
 
 ## 2017
+{: .h4}
 
 Första Park Sounds ägde rum lördag 20 maj 2017 i Huskvarna Folkets park. Hela lineupen kan avnjutas nedan.
 
