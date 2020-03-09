@@ -1,15 +1,19 @@
+- name: Miriam Bryant
+  url: /artister/miriam-bryant
+  level: 1
+  status: ny!
+
 - name: Millencolin
   url: /artister/millencolin
   level: 1
-  status: ny!
+  status:
 
 - name: Ebbot Lundberg & The Indigo Children
   url: /artister/ebbot-lundberg-the-indigo-children
   level: 1
-  status: ny!
+  status:
 
 - name: Otoboke Beaver
   url: /artister/otoboke-beaver  
   level: 1
-  status: ny!
-
+  status:
