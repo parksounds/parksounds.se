@@ -2,14 +2,16 @@
   url: /artister/millencolin
   level: 1
   status: ny!
+  image: https://res.cloudinary.com/parksounds/image/upload/c_scale,w_400/v1583174669/millencolin-park-sounds-2020.jpg
 
 - name: Ebbot Lundberg & The Indigo Children
   url: /artister/ebbot-lundberg-the-indigo-children
   level: 1
   status: ny!
+  image: https://res.cloudinary.com/parksounds/image/upload/c_scale,w_400/v1583174548/ebbot-lundberg-the-indigo-children-park-sounds-2020.jpg
 
-- name: Otoboke Beaver
+- name: Otoboke Beaver (JP)
   url: /artister/otoboke-beaver  
   level: 1
   status: ny!
-
+  image: https://res.cloudinary.com/parksounds/image/upload/c_scale,w_400/v1583174548/otoboke-beaver-park-sounds-2020.jpg
