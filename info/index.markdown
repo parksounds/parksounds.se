@@ -11,7 +11,7 @@ wordpress_id: 553
 
 # Information
 
-Årets festival äger rum i Huskvarna Folkets Park lördag 30 maj 2020.
+Årets festival äger rum **fredag 4 september 2020** i Huskvarna Folkets Park.
 
 Festivalen har två scener, bägge är under tak. Ingen åldersgrans, 18 år i baren. 
 
@@ -23,7 +23,7 @@ Park Sounds genomförs med stöd av Huskvarna Folkets Park, Kultur Jönköpings 
 {:.h4}
 
 **När äger Park Sounds rum?**  
-Lördag 30 maj 2020
+Fredag 4 september 2020
 
 
 **Var är Park Sounds?**  
