@@ -11,7 +11,7 @@ wordpress_id: 553
 
 # Information
 
-2021 års festival äger rum **lördag 22 maj 2021** i Huskvarna Folkets Park.
+2021 års festival äger rum **lördag 29 maj 2021** i Huskvarna Folkets Park.
 
 Festivalen har två scener, båda är under tak. Ingen åldersgrans, 18 år i baren. 
 
@@ -23,7 +23,7 @@ Park Sounds genomförs med stöd av Huskvarna Folkets Park, Kultur Jönköpings 
 {:.h4}
 
 **När äger Park Sounds rum?**  
-Lördag 22 maj 2021
+Lördag 29 maj 2021
 
 
 **Var är Park Sounds?**  
