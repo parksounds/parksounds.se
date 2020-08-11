@@ -384,6 +384,12 @@ main img {
 	text-align: left;
 }
 
+.front-page main article .h3 {
+	text-align: center;
+	font-size: 2em;
+	color: var(--main-light-color);
+}
+
 .front-page main article .h4 {
 	text-align: center;
 	font-size: 1.5rem;
