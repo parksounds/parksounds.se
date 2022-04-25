@@ -1,1 +1,9 @@
+- name: Mares
+  url: /artister/mares
+  level: 1
+  status: ny!
 
+- name: Kvelertak
+  url: /artister/kvelertak
+  level: 1
+  status: ny!

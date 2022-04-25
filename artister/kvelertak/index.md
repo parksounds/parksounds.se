@@ -1,14 +1,18 @@
 ---
-layout: front-page
-date: 2020-04-22 17:26:00+00:00
-title: Park Sounds 2022 - lördag 10 september - Huskvarna Folkets Park
+author: parksounds
+date: 2022-04-25
+layout: default
+link: https://parksounds.se/artister/kvelertak/
+slug: kvelertak
+title: Kvelertak
+wordpress_id: 494
+youtube: r7sIqyoRFiU
+spotify: 0VE0GTaTSeeGSzrQpLmeb9
 ---
 
-## Park Sounds 2022 - lördag 10 september.
-{: .h4}
+<!-- ![{{page.title}}]({{page.image}}) -->
 
 # Kvelertak klara för Park Sounds 2022
-{: .h3}
 
 En konsert med Kvelertak är som att bli överkörd av en ångvält. 
 
@@ -17,9 +21,3 @@ Det prisbelönta Stavanger-bandet är ledda av sångaren Ivar Nikolaisen (tidiga
 Kvelertak är inte okända för den svenska publiken. Efter att ha agerat support till Ghost på Hovet 2017 så var bandet med som support på Metallicas succéturné WorldWired Tour – som bland annat satte det nuvarande publikrekordet på Ericsson Globe 2018. 
 
 Nu ser vi fram emot nytt material från norrmännen – och äntligen konserter på svensk mark när Heavy metal från Stavanger invaderar Teaterladan inom kort, så se upp! Så här nära kanske du aldrig kommer se Kvelertak igen.
-
-
-<img src="images/artists/kvelertak-parksounds-2022.jpg">
-
-### Klara artister Park Sounds 2022
-{: .h4}
