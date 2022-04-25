@@ -10,5 +10,5 @@ title: Klara artister
 
 # Klara artister
 
-Klara för Park Sounds 2021. Fler artister tillkommer inom kort.
+Klara för Park Sounds 2022. Fler artister tillkommer inom kort.
 
