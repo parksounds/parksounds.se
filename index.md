@@ -7,19 +7,14 @@ title: Park Sounds 2022 - lördag 10 september - Huskvarna Folkets Park
 ## Park Sounds 2022 - lördag 10 september.
 {: .h4}
 
-# Kvelertak klara för Park Sounds 2022
+# Paula Jivén klara för Park Sounds 2022
 {: .h3}
+Paula Jivén skapar trollbindande och originell popmusik, där varje låt är formad av hennes obegränsade fantasi. Enligt oss har hon en fantastisk och unik röst, där den extra känslan kommer fram i gränsen mellan engelskan och de svenska raderna i “Breaking up with a friend”. 
 
-En konsert med Kvelertak är som att bli överkörd av en ångvält. 
+Hennes debut-EP släpptes den 6 maj och har sedan dess gått på repeat hos oss.
 
-Det prisbelönta Stavanger-bandet är ledda av sångaren Ivar Nikolaisen (tidigare i bandet Silver and The Good, The Band and The Zugly) och snart kommer nytt material från de Nordiska storheterna. Den självbetitlade debuten var det som startade allt – med enorma låtar som ”Mjød” och "Blodtørst".
+Paula Jivén utsågs i april till Framtidens Artist av P3 och har haft flera låtar på A-rotation. En artist och låtskrivare på uppgång, perfekt för Park Sounds!
 
-Kvelertak är inte okända för den svenska publiken. Efter att ha agerat support till Ghost på Hovet 2017 så var bandet med som support på Metallicas succéturné WorldWired Tour – som bland annat satte det nuvarande publikrekordet på Ericsson Globe 2018. 
-
-Nu ser vi fram emot nytt material från norrmännen – och äntligen konserter på svensk mark när Heavy metal från Stavanger invaderar Teaterladan inom kort, så se upp! Så här nära kanske du aldrig kommer se Kvelertak igen.
-
-
-<img src="images/artists/kvelertak-parksounds-2022.jpg">
 
 ### Klara artister Park Sounds 2022
 {: .h4}
