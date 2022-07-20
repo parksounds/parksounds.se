@@ -5,13 +5,13 @@ date: 2019-02-17
 layout: default
 link: https://parksounds.se/info/
 slug: info
-title: Information om festivalen
+title: Information om Park Sounds
 wordpress_id: 553
 ---
 
 # Information
 
-2021 års festival äger rum **lördag 29 maj 2021** i Huskvarna Folkets Park.
+2022 års festival äger rum **Lördag 10 september 2022** i Huskvarna Folkets Park.
 
 Festivalen har två scener, båda är under tak. Ingen åldersgrans, 18 år i baren. 
 
@@ -23,7 +23,7 @@ Park Sounds genomförs med stöd av Huskvarna Folkets Park, Kultur Jönköpings 
 {:.h4}
 
 **När äger Park Sounds rum?**  
-Lördag 29 maj 2021
+Lördag 10 september 2022
 
 
 **Var är Park Sounds?**  
@@ -31,7 +31,7 @@ I Huskvarna Folkets Park, Huskvarna
 
 
 **Var köper jag biljetter till Park Sounds?**  
-Du köper [biljetter hos Tickster](https://secure.tickster.com/e7p95k0zedfrlt3).
+Du köper [biljetter hos Tickster](https://secure.tickster.com/bc04tvdk9a8xrfv).
 
 
 **Hur är festivalen Park Sounds?**  
@@ -43,7 +43,7 @@ Ingen åldersgrans. 18 år i baren, så klart.
 
 
 **Mat och dryck**  
-Mat och dryck finns på omradet. Det är förbjudet att ta med alkoholhaltiga drycker in på området.
+Mat och dryck finns på området. Det är förbjudet att ta med alkoholhaltiga drycker in på området.
 
 
 **Garderob**  
@@ -78,7 +78,7 @@ Huskvarna Vandrarhem & Turistgård, Odengatan 10
 Tel: 036-14 88 70
 
 **Camping:**  
-Villa Bjorkhagen, Rosenlund  
+Villa Björkhagen, Rosenlund  
 Tel: 036-12 28 63
 
 _Fler alternativ_ for boende hos [Jönköpings officiella besöksguide](http://www.jkpg.com/sv/sova/).
