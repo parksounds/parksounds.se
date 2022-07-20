@@ -10,9 +10,9 @@ spotify: 42VDvOzr6eyxscOD2ax83D
 image: /images/artists/paula-jiven-park-sounds-2022.jpg
 ---
 
-![{{page.title}}]({{page.image}})
-
 # Paula Jivén till Park Sounds 2022
+
+![{{page.title}}]({{page.image}})
 
 Paula Jivén skapar trollbindande och originell popmusik, där varje låt är formad av hennes obegränsade fantasi. Enligt oss har hon en fantastisk och unik röst, där den extra känslan kommer fram i gränsen mellan engelskan och de svenska raderna i “Breaking up with a friend”. 
 
