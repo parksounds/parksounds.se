@@ -18,3 +18,5 @@ Paula Jivén skapar trollbindande och originell popmusik, där varje låt är fo
 Hennes debut-EP släpptes den 6 maj och har sedan dess gått på repeat hos oss.
 
 Paula Jivén utsågs i april till Framtidens Artist av P3 och har haft flera låtar på A-rotation. En artist och låtskrivare på uppgång, perfekt för Park Sounds!
+
+<img src="/images/artists/paula-jiven-park-sounds-2022.jpg">
