@@ -1,9 +1,19 @@
 - name: Mares
   url: /artister/mares
-  level: 1
+  level: 2
   status: ny!
 
 - name: Kvelertak
   url: /artister/kvelertak
-  level: 1
+  level: 2
+  status: ny!
+
+- name: Paula Jivén
+  url: /artister/paula-jiven
+  level: 2
+  status: ny!
+
+- name: Hannes
+  url: /artister/hannes
+  level: 2
   status: ny!
