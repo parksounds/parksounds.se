@@ -1,10 +1,30 @@
-- name: Mares
-  url: /artister/mares
+- name: Kvelertak
+  url: /artister/kvelertak
   level: 2
   status: ny!
 
-- name: Kvelertak
-  url: /artister/kvelertak
+- name: Terra
+  url: /artister/terra
+  level: 2
+  status: ny!
+
+- name: Bad Nerves
+  url: /artister/bad-nerves
+  level: 2
+  status: ny!
+
+- name: Olivia Lobato
+  url: /artister/olivia-lobato
+  level: 2
+  status: ny!
+
+- name: thrown
+  url: /artister/thrown
+  level: 2
+  status: ny!
+
+- name: Mares
+  url: /artister/mares
   level: 2
   status: ny!
 
